@@ -35,6 +35,7 @@ alias fuck="sudo rm -rf"
 alias fucking="sudo"
 alias yeet="cp -r"
 alias clr="clear"
+alias pacclear="sudo pacman -Qdtq | sudo pacman -Rns -"
 
 # misc
 #alias neofetch="neofetch --source /home/soul/.config/neofetch-art.txt --ascii_distro debian"
