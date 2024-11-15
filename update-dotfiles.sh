@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp /home/$USER/.zshrc ./zshrc
-cp -r /home/$USER/.config/ags .
-cp -r /home/$USER/.config/hypr .
+cp -f /home/$USER/.zshrc ./zshrc
+cp -rf /home/$USER/.config/ags .
+cp -rf /home/$USER/.config/hypr .
