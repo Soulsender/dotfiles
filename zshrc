@@ -29,6 +29,7 @@ blue="\e[0;94m"
 bold="\e[1m"
 reset="\e[0m"
 yellow="\e[0;33m"
+cyan="\e[0;36m"
 
 # custom aliases
 alias fuck="sudo rm -rf"
