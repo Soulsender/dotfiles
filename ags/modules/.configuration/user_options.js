@@ -132,11 +132,11 @@ let configOptions = {
         // See https://docs.gtk.org/glib/method.DateTime.format.html
         // Here's the 12h format: "%I:%M%P"
         // For seconds, add "%S" and set interval to 1000
-        'format': "%H:%M",
+        'format': "%I:%M%P",
         'interval': 5000,
-        'dateFormatLong': "%A, %d/%m", // On bar
+        'dateFormatLong': "%A, %m/%d", // On bar
         'dateInterval': 5000,
-        'dateFormat': "%d/%m", // On notif time
+        'dateFormat': "%m/%d", // On notif time
     },
     'weather': {
         'city': "",

@@ -47,7 +47,17 @@ const userConfigOptions = {
         },
         'engineBaseUrl': "https://www.google.com/search?q=",
         'excludedSites': ["quora.com"],
-    }
+    },
+    'time': {
+        // See https://docs.gtk.org/glib/method.DateTime.format.html
+        // Here's the 12h format: "%I:%M%P"
+        // For seconds, add "%S" and set interval to 1000
+        'format': "%I:%M%P",
+        'interval': 5000,
+        'dateFormatLong': "%A, %m/%d", // On bar
+        'dateInterval': 5000,
+        'dateFormat': "%m/%d", // On notif time
+    },
 }
 
 export default userConfigOptions;
