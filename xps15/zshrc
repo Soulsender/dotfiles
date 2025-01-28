@@ -33,15 +33,19 @@ alias ll="ls -l"
 alias la="ls -lA"
 alias l="ls -CF"
 
-
 # misc
 alias neofetch="fastfetch"
 alias neo="fastfetch"
 
 # vpn
 #alias proton='protonvpn-cli'
-alias vpnc='sudo systemctl stop tailscaled && protonvpn-cli c'
-alias vpnd='protonvpn-cli d && sudo systemctl start tailscaled'
+#alias vpnc='sudo systemctl stop tailscaled && echo "Connecting to VPN..." && protonvpn-cli c'
+#alias vpnd='echo "Disconnecting from VPN..." && protonvpn-cli d && sudo systemctl start tailscaled'
+alias vpnc='sudo openvpn /etc/openvpn/client/ca-142.protonvpn.udp.ovpn'
+
+# network
+alias wifi-scan='nmcli device wifi list'
+alias wifi-connect='nmcli -a device wifi connect'
 
 # packet tracer
 alias packettracer="export XDG_CONFIG_HOME=~/.configPT; packettracer"
@@ -51,7 +55,7 @@ alias unfuck-wifi="sudo systemctl restart NetworkManager"
 alias flush-dns="sudo resolvectl flush-caches"
 
 # pacman
-alias po="sudo pacman -Qdtq | sudo pacman -Rns -"
+alias po="pacman -Qdtq | sudo pacman -Rns -"
 alias pc="sudo pacman -Scc && yay -Scc"
 alias pu="yay -Syu"
 alias pm="po && pc && pu"
