@@ -9,3 +9,4 @@ cp -f $HOME/.config/code-flags.conf ./$HOSTNAME/code-flags.conf
 cp -rf $HOME/.config/ags ./$HOSTNAME/
 cp -rf $HOME/.config/hypr ./$HOSTNAME/
 cp -rf $HOME/.config/kitty ./$HOSTNAME/
+cp -rf $HOME/Documents/notes/.obsidian ./$HOSTNAME/obsidian

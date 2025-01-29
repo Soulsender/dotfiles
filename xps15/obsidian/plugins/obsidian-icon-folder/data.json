@@ -1,0 +1,68 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFileQuestion",
+      "LiCircleDotDashed",
+      "LiCog",
+      "LiMapPinned",
+      "LiBrain"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Networking": "LiRoute",
+  "Windows": "LiAppWindow",
+  "VoIP": "LiPhone",
+  "Security": "LiShield",
+  "Recipes": "LiCookie",
+  "Radio": "LiRadioTower",
+  "Quick-Reference": "LiInfo",
+  "Programming": "LiCode2",
+  "Private": "LiLock",
+  "Linux": "LiTerminal",
+  "Hacking": "LiBinary",
+  "Desktop Support & Maintenance": "LiComputer",
+  "Database": "LiDatabase",
+  "Cloud": "LiUploadCloud",
+  "Networking/Routing": "LiRoute",
+  "Networking/Essentials (NetAcad)": "LiInfo",
+  "Networking/Wireless": "LiRadio",
+  "Networking/Switching": "LiArrowRightLeft",
+  "README.md": "LiInfo",
+  "Networking/Switching/Spanning-Tree/Spanning Tree.canvas": {
+    "iconName": "LiMap",
+    "iconColor": "#ff0000"
+  },
+  "Networking/Switching/VLANs & DTP/VLANs.canvas": {
+    "iconName": "LiMap",
+    "iconColor": "#ff0000"
+  },
+  "Networking/Routing/Routing Protocols/OSPF/OSPF.canvas": {
+    "iconName": "LiMap",
+    "iconColor": "#ff0000"
+  },
+  "Networking/Miscellanous": "LiFileQuestion"
+}

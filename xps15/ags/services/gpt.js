@@ -14,7 +14,7 @@ const PROVIDERS = Object.assign({ // There's this list hmm https://github.com/zu
         'base_url': 'https://api.openai.com/v1/chat/completions',
         'key_get_url': 'https://platform.openai.com/api-keys',
         'key_file': 'openai_key.txt',
-        'model': 'gpt-3.5-turbo',
+        'model': 'gpt-4o-mini',
     },
     'ollama': {
         'name': 'Ollama (Llama 3)',

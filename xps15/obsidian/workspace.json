@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "81cc3a7e2373b9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "96477a0a63710c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b9694ca762f904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Routing/Routing Protocols/EIGRP/_EIGRPv6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_EIGRPv6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1b8d44644e0bc07",
+    "type": "split",
+    "children": [
+      {
+        "id": "49dddade09d3a0af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cff6b15a3f0a196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e8f5630617bee1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b45b864a881a8a5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b45dc8836eed899",
+    "type": "split",
+    "children": [
+      {
+        "id": "8410cada288117f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f9da3e98471789",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f2146e94284bf30d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "62ee862c348f9e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73be0ee006c8302c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "deee7027238a21fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b923dc13f68cc792",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "84b9694ca762f904",
+  "lastOpenFiles": [
+    "Networking/Routing/VPNs/DMVPN.md",
+    "Networking/Routing/Routing Protocols/EIGRP/_EIGRPv6.md",
+    "_attachments/Pasted image 20250127153842.png",
+    "Networking/Routing/VPNs/DMVPN vs Traditional.canvas",
+    "_attachments/Pasted image 20250124103453.png",
+    "Windows/Active Directory/Managers/Configuration Manager.md",
+    "Windows/Active Directory/Managers/Operations Manager.md",
+    "Networking/Routing/Virtual Routing & Forwarding (VRF).md",
+    "Windows/Active Directory/Managers/Service Manager.md",
+    "Windows/Active Directory/Managers",
+    "Networking/Routing/MPLS/MPLS Layer 3 VPN.md",
+    "Networking/Routing/VPNs/VPN Technology.md",
+    "Networking/Routing/VPNs/GRE Tunnels.md",
+    "Networking/Routing/Routing Protocols/Routing Protocols.md",
+    "Networking/Routing/Routing Protocols/OSPF/_OSPF.md",
+    "Networking/Routing/MPLS/_MPLS.md",
+    "Networking/Routing/MPLS/Label Distribution Protocol (LDP).md",
+    "Networking/Routing/MPLS",
+    "Networking/IOS Commands.md",
+    "Cloud/AWS/VPCs.md",
+    "Networking/Routing/Next Hop Resolution Protocol.md",
+    "Lesson Plan.md",
+    "Cloud/AWS/Networking.md",
+    "Security/Palo Alto/Service Translation.md",
+    "Security/Edge Router Approaches.canvas",
+    "Security/Palo Alto",
+    "Windows/Active Directory/FSMO Roles.md",
+    "Windows/Active Directory/Operations Master.md",
+    "Quick-Reference/ssh.md",
+    "Cloud/AWS",
+    "Programming/Rust/Syntax/Traits.md",
+    "Programming/Rust/Syntax/Impl.md",
+    "Programming/Rust/Syntax/Generic Types.md",
+    "Networking/Essentials (NetAcad)/Subnetting/Subnetting.md",
+    "Networking/Essentials (NetAcad)/Subnetting",
+    "Windows/Active Directory/Hyperconverged Infrastructure (HCI)",
+    "Windows/Active Directory/High Availability & Clustering",
+    "Windows/Active Directory/Deploying Machines",
+    "Networking/Wireless/Security",
+    "Programming/Rust/Examples/Guessing.rs",
+    "_attachments/Pasted image 20241204162624.png",
+    "_attachments/Pasted image 20241204141240.png",
+    "_attachments/Pasted image 20241204135201.png",
+    "_attachments/Pasted image 20241204134727.png",
+    "Networking/Switching/Spanning-Tree/Spanning Tree.canvas",
+    "_attachments/Pasted image 20241125112255.png",
+    "Networking/Routing/Routing Protocols/OSPF/OSPF.canvas",
+    "Networking/Switching/VLANs & DTP/VLANs.canvas",
+    "_attachments/Pasted image 20241017093626.png",
+    "_attachments/Pasted image 20241017093544.png",
+    "_attachments/Pasted image 20241017093527.png",
+    "Networking/Routing/Protocols/OSPF/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
