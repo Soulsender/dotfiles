@@ -1,0 +1,445 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+<<<<<<< HEAD
+      "name": "Database",
+      "relativePath": "Database"
+    },
+    {
+=======
+>>>>>>> origin/main
+      "name": "Cloud",
+      "relativePath": "Cloud"
+    },
+    {
+      "name": "attachments",
+      "relativePath": "attachments"
+    },
+    {
+      "name": "Hacking",
+      "relativePath": "Hacking"
+    },
+    {
+      "name": "Desktop Support & Maintenance",
+      "relativePath": "Desktop Support & Maintenance"
+    },
+    {
+      "name": "Networking",
+      "relativePath": "Networking"
+    },
+    {
+      "name": "Linux",
+      "relativePath": "Linux"
+    },
+    {
+      "name": "Misc",
+      "relativePath": "Misc"
+    },
+    {
+      "name": "Private",
+      "relativePath": "Private"
+    },
+    {
+      "name": "Programming",
+      "relativePath": "Programming"
+    },
+    {
+      "name": "Quick-Reference",
+      "relativePath": "Quick-Reference"
+    },
+    {
+      "name": "Radio",
+      "relativePath": "Radio"
+    },
+    {
+      "name": "Recipes",
+      "relativePath": "Recipes"
+    },
+    {
+      "name": "Security",
+      "relativePath": "Security"
+    },
+    {
+      "name": "VoIP",
+      "relativePath": "VoIP"
+    },
+    {
+      "name": "Windows",
+      "relativePath": "Windows"
+    },
+    {
+      "name": "attachments",
+      "relativePath": "attachments"
+    },
+    {
+      "name": "Google Cloud",
+      "relativePath": "Cloud/Google Cloud"
+    },
+    {
+      "name": "Essentials (NetAcad)",
+      "relativePath": "Networking/Essentials (NetAcad)"
+    },
+    {
+      "name": "Routing",
+      "relativePath": "Networking/Routing"
+    },
+    {
+      "name": "Wireless",
+      "relativePath": "Networking/Wireless"
+    },
+    {
+      "name": "Switching",
+      "relativePath": "Networking/Switching"
+    },
+    {
+      "name": "Hardware Components",
+      "relativePath": "Desktop Support & Maintenance/Hardware Components"
+    },
+    {
+      "name": "Introduction",
+      "relativePath": "Desktop Support & Maintenance/Introduction"
+    },
+    {
+      "name": "C",
+      "relativePath": "Programming/C"
+    },
+    {
+      "name": "Python",
+      "relativePath": "Programming/Python"
+    },
+    {
+      "name": "Active Directory",
+      "relativePath": "Hacking/Active Directory"
+    },
+    {
+      "name": "CTFs & Boxes",
+      "relativePath": "Hacking/CTFs & Boxes"
+    },
+    {
+      "name": "Tools",
+      "relativePath": "Hacking/Tools"
+    },
+    {
+      "name": "OSINT",
+      "relativePath": "Hacking/OSINT"
+    },
+    {
+      "name": "Web",
+      "relativePath": "Hacking/Web"
+    },
+    {
+      "name": "Forensics",
+      "relativePath": "Hacking/Forensics"
+    },
+    {
+      "name": "Windows",
+      "relativePath": "Hacking/Windows"
+    },
+    {
+      "name": "Active Directory",
+      "relativePath": "Windows/Active Directory"
+    },
+    {
+      "name": "Cisco IOS",
+      "relativePath": "Security/Cisco IOS"
+    },
+    {
+      "name": "CloudShell",
+      "relativePath": "Cloud/Google Cloud/CloudShell"
+    },
+    {
+      "name": "Radio",
+      "relativePath": "Networking/Wireless/Radio"
+    },
+    {
+<<<<<<< HEAD
+      "name": "WLAN",
+      "relativePath": "Networking/Wireless/WLAN"
+=======
+      "name": "THM",
+      "relativePath": "Hacking/CTFs & Boxes/THM"
+    },
+    {
+      "name": "Geographical",
+      "relativePath": "Hacking/OSINT/Geographical"
+    },
+    {
+      "name": "Setup",
+      "relativePath": "Hacking/OSINT/Setup"
+    },
+    {
+      "name": "Data Link Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Data Link Layer"
+    },
+    {
+      "name": "Ethernet Switching",
+      "relativePath": "Networking/Essentials (NetAcad)/Ethernet Switching"
+    },
+    {
+      "name": "IOS",
+      "relativePath": "Networking/Essentials (NetAcad)/IOS"
+    },
+    {
+      "name": "IPv6",
+      "relativePath": "Networking/Essentials (NetAcad)/IPv6"
+    },
+    {
+      "name": "Physical Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Physical Layer"
+    },
+    {
+      "name": "Protocols and Models",
+      "relativePath": "Networking/Essentials (NetAcad)/Protocols and Models"
+    },
+    {
+      "name": "Routing",
+      "relativePath": "Networking/Essentials (NetAcad)/Routing"
+    },
+    {
+      "name": "Transport Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Transport Layer"
+    },
+    {
+      "name": "ACLs",
+      "relativePath": "Networking/Routing/ACLs"
+    },
+    {
+      "name": "Cisco",
+      "relativePath": "Networking/Routing/Cisco"
+    },
+    {
+      "name": "NAT",
+      "relativePath": "Networking/Routing/NAT"
+    },
+    {
+      "name": "Protocols",
+      "relativePath": "Networking/Routing/Protocols"
+    },
+    {
+      "name": "Subnetting",
+      "relativePath": "Networking/Routing/Subnetting"
+    },
+    {
+      "name": "VPNs",
+      "relativePath": "Networking/Routing/VPNs"
+    },
+    {
+      "name": "WANs",
+      "relativePath": "Networking/Routing/WANs"
+>>>>>>> origin/main
+    },
+    {
+      "name": "DHCP",
+      "relativePath": "Networking/Switching/DHCP"
+    },
+    {
+      "name": "FHRP",
+      "relativePath": "Networking/Switching/FHRP"
+    },
+    {
+      "name": "Security",
+      "relativePath": "Networking/Switching/Security"
+    },
+    {
+      "name": "Spanning-Tree",
+      "relativePath": "Networking/Switching/Spanning-Tree"
+    },
+    {
+      "name": "VLANs",
+      "relativePath": "Networking/Switching/VLANs"
+    },
+    {
+      "name": "EtherChannel",
+      "relativePath": "Networking/Switching/EtherChannel"
+    },
+    {
+      "name": "Data Link Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Data Link Layer"
+    },
+    {
+      "name": "IOS",
+      "relativePath": "Networking/Essentials (NetAcad)/IOS"
+    },
+    {
+      "name": "IPv6",
+      "relativePath": "Networking/Essentials (NetAcad)/IPv6"
+    },
+    {
+      "name": "Physical Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Physical Layer"
+    },
+    {
+      "name": "Protocols and Models",
+      "relativePath": "Networking/Essentials (NetAcad)/Protocols and Models"
+    },
+    {
+      "name": "Ethernet Switching",
+      "relativePath": "Networking/Essentials (NetAcad)/Ethernet Switching"
+    },
+    {
+      "name": "PicoGym",
+      "relativePath": "Hacking/CTFs & Boxes/PicoGym"
+    },
+    {
+      "name": "Transport Layer",
+      "relativePath": "Networking/Essentials (NetAcad)/Transport Layer"
+    },
+    {
+      "name": "Routing",
+      "relativePath": "Networking/Essentials (NetAcad)/Routing"
+    },
+    {
+      "name": "THM",
+      "relativePath": "Hacking/CTFs & Boxes/THM"
+    },
+    {
+      "name": "ACLs",
+      "relativePath": "Networking/Routing/ACLs"
+    },
+    {
+      "name": "Cisco",
+      "relativePath": "Networking/Routing/Cisco"
+    },
+    {
+      "name": "NAT",
+      "relativePath": "Networking/Routing/NAT"
+    },
+    {
+      "name": "WANs",
+      "relativePath": "Networking/Routing/WANs"
+    },
+    {
+      "name": "Protocols",
+      "relativePath": "Networking/Routing/Protocols"
+    },
+    {
+      "name": "Geographical",
+      "relativePath": "Hacking/OSINT/Geographical"
+    },
+    {
+      "name": "Setup",
+      "relativePath": "Hacking/OSINT/Setup"
+    },
+    {
+      "name": "Subnetting",
+      "relativePath": "Networking/Routing/Subnetting"
+    },
+    {
+      "name": "VPNs",
+      "relativePath": "Networking/Routing/VPNs"
+    },
+    {
+      "name": "Essentials",
+      "relativePath": "Windows/Active Directory/Essentials"
+    },
+    {
+      "name": "Exchange",
+      "relativePath": "Windows/Active Directory/Exchange"
+    },
+    {
+      "name": "Forensics",
+      "relativePath": "Hacking/CTFs & Boxes/PicoGym/Forensics"
+    },
+    {
+      "name": "Web",
+      "relativePath": "Hacking/CTFs & Boxes/PicoGym/Web"
+    },
+    {
+      "name": "RevEng",
+      "relativePath": "Hacking/CTFs & Boxes/PicoGym/RevEng"
+    },
+    {
+      "name": "General",
+      "relativePath": "Hacking/CTFs & Boxes/PicoGym/General"
+    },
+    {
+      "name": "Cisco Express Forwarding (CEF)",
+      "relativePath": "Networking/Routing/Cisco/Cisco Express Forwarding (CEF)"
+    },
+    {
+      "name": "BGP",
+      "relativePath": "Networking/Routing/Protocols/BGP"
+    },
+    {
+      "name": "EIGRP",
+      "relativePath": "Networking/Routing/Protocols/EIGRP"
+    },
+    {
+      "name": "BGP",
+      "relativePath": "Networking/Routing/Protocols/BGP"
+    },
+    {
+      "name": "OSPF",
+      "relativePath": "Networking/Routing/Protocols/OSPF"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    },
+    {
+      "name": "Pasted image 20241003103837.png",
+      "basename": "Pasted image 20241003103837",
+      "relativePath": "attachments/Pasted image 20241003103837.png"
+    },
+    {
+      "name": "Pasted image 20241006153226.png",
+      "basename": "Pasted image 20241006153226",
+      "relativePath": "attachments/Pasted image 20241006153226.png"
+    },
+    {
+      "name": "Pasted image 20241004090908.png",
+      "basename": "Pasted image 20241004090908",
+      "relativePath": "attachments/Pasted image 20241004090908.png"
+    },
+    {
+      "name": "Pasted image 20241012150353.png",
+      "basename": "Pasted image 20241012150353",
+      "relativePath": "attachments/Pasted image 20241012150353.png"
+    },
+    {
+      "name": "Pasted image 20241012140731.png",
+      "basename": "Pasted image 20241012140731",
+      "relativePath": "attachments/Pasted image 20241012140731.png"
+    },
+    {
+      "name": "Pasted image 20241005173711.png",
+      "basename": "Pasted image 20241005173711",
+      "relativePath": "attachments/Pasted image 20241005173711.png"
+    },
+    {
+      "name": "Pasted image 20241012145616.png",
+      "basename": "Pasted image 20241012145616",
+      "relativePath": "attachments/Pasted image 20241012145616.png"
+    },
+    {
+<<<<<<< HEAD
+=======
+      "name": "Pasted image 20241012140731.png",
+      "basename": "Pasted image 20241012140731",
+      "relativePath": "attachments/Pasted image 20241012140731.png"
+    },
+    {
+      "name": "Pasted image 20241012145616.png",
+      "basename": "Pasted image 20241012145616",
+      "relativePath": "attachments/Pasted image 20241012145616.png"
+    },
+    {
+      "name": "Pasted image 20241012150353.png",
+      "basename": "Pasted image 20241012150353",
+      "relativePath": "attachments/Pasted image 20241012150353.png"
+    },
+    {
+>>>>>>> origin/main
+      "name": "Pasted image 20241012153400.png",
+      "basename": "Pasted image 20241012153400",
+      "relativePath": "attachments/Pasted image 20241012153400.png"
+    }
+  ]
+}

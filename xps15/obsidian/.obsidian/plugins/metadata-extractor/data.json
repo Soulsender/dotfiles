@@ -1,0 +1,13 @@
+{
+  "tagPath": "",
+  "metadataPath": "./metadata.json",
+  "allExceptMdPath": "",
+  "canvasPath": "",
+  "tagFile": "tags.json",
+  "metadataFile": "metadata.json",
+  "allExceptMdFile": "allExceptMd.json",
+  "canvasFile": "canvas.json",
+  "writingFrequency": "0",
+  "writeFilesOnLaunch": true,
+  "consoleLog": false
+}

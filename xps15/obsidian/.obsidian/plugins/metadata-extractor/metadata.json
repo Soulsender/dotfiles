@@ -1,0 +1,4085 @@
+[
+  {
+    "fileName": "Virtual Switches",
+    "relativePath": "Windows/Windows Essentials/Virtual Switches.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "External Switch",
+        "level": 4
+      },
+      {
+        "heading": "Private Switch",
+        "level": 4
+      },
+      {
+        "heading": "Internal Switch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Skills Exam",
+    "relativePath": "Windows/Windows Essentials/Skills Exam.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "IPv4 Renew IP",
+        "level": 4
+      },
+      {
+        "heading": "Routing and NAT",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "SMB & NFS",
+    "relativePath": "Windows/Windows Essentials/SMB & NFS.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Features",
+        "level": 4
+      },
+      {
+        "heading": "Network File System (NFS)",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Practice Questions",
+    "relativePath": "Windows/Windows Essentials/Practice Questions.md",
+    "tags": [
+      "exam"
+    ]
+  },
+  {
+    "fileName": "Partition Tables",
+    "relativePath": "Windows/Windows Essentials/Partition Tables.md",
+    "tags": [
+      "hardware"
+    ],
+    "headings": [
+      {
+        "heading": "GPT (GUID Partition Table)",
+        "level": 4
+      },
+      {
+        "heading": "MBR (Master Boot Record) - legacy",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Operation Master Roles",
+    "relativePath": "Windows/Windows Essentials/Operation Master Roles.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Roles",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Hyper V",
+    "relativePath": "Windows/Windows Essentials/Hyper V.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Dynamic VMMQ",
+        "level": 4
+      },
+      {
+        "heading": "RDMA for virtual switches",
+        "level": 4
+      },
+      {
+        "heading": "SET",
+        "level": 4
+      },
+      {
+        "heading": "Smart Paging",
+        "level": 4
+      },
+      {
+        "heading": "Discrete Device Assignment",
+        "level": 4
+      },
+      {
+        "heading": "Hot add",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Groups",
+    "relativePath": "Windows/Windows Essentials/Groups.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Types",
+        "level": 4
+      },
+      {
+        "heading": "Group Scopes",
+        "level": 4
+      },
+      {
+        "heading": "Other Groups",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Disks",
+    "relativePath": "Windows/Windows Essentials/Disks.md",
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "fileName": "DNS Zones",
+    "relativePath": "Windows/Windows Essentials/DNS Zones.md",
+    "tags": [
+      "dns",
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Forward Lookup Zones",
+        "level": 4
+      },
+      {
+        "heading": "Reverse Lookup Zones",
+        "level": 4
+      },
+      {
+        "heading": "Primary Zone",
+        "level": 4
+      },
+      {
+        "heading": "Secondary Zone",
+        "level": 4
+      },
+      {
+        "heading": "Stub Zones",
+        "level": 4
+      },
+      {
+        "heading": "Zone Transfers",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "DNS Records",
+    "relativePath": "Windows/Windows Essentials/DNS Records.md",
+    "tags": [
+      "dns"
+    ]
+  },
+  {
+    "fileName": "8 Remote Access",
+    "relativePath": "Windows/Windows Essentials/Chapters/8 Remote Access.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Network policy server (NPS)",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "7 DNS",
+    "relativePath": "Windows/Windows Essentials/Chapters/7 DNS.md",
+    "tags": [
+      "dns",
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Zones",
+        "level": 4
+      },
+      {
+        "heading": "Forwarding",
+        "level": 4
+      },
+      {
+        "heading": "DNS Security",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "6 DHCP",
+    "relativePath": "Windows/Windows Essentials/Chapters/6 DHCP.md",
+    "tags": [
+      "dhcp"
+    ],
+    "headings": [
+      {
+        "heading": "DHCP Relay Agent",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "2 Initial Configuration",
+    "relativePath": "Windows/Windows Essentials/Chapters/2 Initial Configuration.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Auto Activation",
+        "level": 4
+      },
+      {
+        "heading": "Updates",
+        "level": 4
+      },
+      {
+        "heading": "Servicing Channels",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Active Directory",
+    "relativePath": "Windows/Windows Essentials/Active Directory.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Active directory domain services (AD DS)",
+        "level": 4
+      },
+      {
+        "heading": "Group Policy",
+        "level": 4
+      },
+      {
+        "heading": "KCC",
+        "level": 4
+      },
+      {
+        "heading": "Metadata Information Hierarchy",
+        "level": 4
+      },
+      {
+        "heading": "Scope of Configuration Management",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "AD Sites",
+    "relativePath": "Windows/Windows Essentials/AD Sites.md",
+    "tags": [
+      "active-directory"
+    ],
+    "headings": [
+      {
+        "heading": "Logical (Virtual) Structure",
+        "level": 4
+      },
+      {
+        "heading": "Physical Structure",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Skill Exam",
+    "relativePath": "Windows/Azure/Skill Exam.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "Bypassing TPM",
+        "level": 3
+      },
+      {
+        "heading": "Group Policy",
+        "level": 3
+      },
+      {
+        "heading": "Misc",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Module 7",
+    "relativePath": "Windows/Azure/Module 7.md",
+    "tags": [
+      "cloud"
+    ],
+    "headings": [
+      {
+        "heading": "Expressroute",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Midterm",
+    "relativePath": "Windows/Azure/Midterm.md",
+    "tags": [
+      "exam"
+    ]
+  },
+  {
+    "fileName": "Final",
+    "relativePath": "Windows/Azure/Final.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "Module 8",
+        "level": 3
+      },
+      {
+        "heading": "Module 9",
+        "level": 3
+      },
+      {
+        "heading": "Module 10",
+        "level": 3
+      },
+      {
+        "heading": "Module 11",
+        "level": 3
+      },
+      {
+        "heading": "Module 12",
+        "level": 3
+      },
+      {
+        "heading": "Module 13",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Security Model",
+    "relativePath": "Security/Security Model.md",
+    "tags": [
+      "logical"
+    ]
+  },
+  {
+    "fileName": "Midterm",
+    "relativePath": "Security/Midterm.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "Frameworks",
+        "level": 2
+      },
+      {
+        "heading": "CIA",
+        "level": 4
+      },
+      {
+        "heading": "NIST",
+        "level": 4
+      },
+      {
+        "heading": "7 Layers",
+        "level": 4
+      },
+      {
+        "heading": "Manageable Network",
+        "level": 4
+      },
+      {
+        "heading": "Email Security",
+        "level": 2
+      },
+      {
+        "heading": "SEG (secure email gateway) blocks unwanted messages",
+        "level": 4
+      },
+      {
+        "heading": "Email Authentication",
+        "level": 4
+      },
+      {
+        "heading": "VPN",
+        "level": 2
+      },
+      {
+        "heading": "PPTP (point to point tunneling protocol)",
+        "level": 4
+      },
+      {
+        "heading": "L2F (layer 2 forwarding)",
+        "level": 4
+      },
+      {
+        "heading": "L2TP",
+        "level": 4
+      },
+      {
+        "heading": "SSTP (secure socket tunneling protocol)",
+        "level": 4
+      },
+      {
+        "heading": "IPsec",
+        "level": 4
+      },
+      {
+        "heading": "IKE (internet key exchange)",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Final",
+    "relativePath": "Security/Final.md",
+    "tags": [
+      "exam"
+    ]
+  },
+  {
+    "fileName": "Console Security",
+    "relativePath": "Security/Cisco IOS/Console Security.md",
+    "headings": [
+      {
+        "heading": "Privilege Levels",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Access Control",
+    "relativePath": "Security/Access Control.md",
+    "tags": [
+      "acls"
+    ],
+    "headings": [
+      {
+        "heading": "Discretionary Access Control (DAC)",
+        "level": 4
+      },
+      {
+        "heading": "Mandatory Access Control (MAC)",
+        "level": 4
+      },
+      {
+        "heading": "Role Based Access Control (Role BAC)",
+        "level": 4
+      },
+      {
+        "heading": "Rule Based Access Control (Role BAC)",
+        "level": 4
+      },
+      {
+        "heading": "Attribute Based Access Control (ABAC)",
+        "level": 4
+      },
+      {
+        "heading": "Conditional Access",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Yakiudon",
+    "relativePath": "Recipes/Yakiudon.md",
+    "tags": [
+      "food"
+    ],
+    "headings": [
+      {
+        "heading": "Ingredients",
+        "level": 3
+      },
+      {
+        "heading": "Steps",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Actually Accurate Pancetta Carbonara",
+    "relativePath": "Recipes/Actually Accurate Pancetta Carbonara.md",
+    "tags": [
+      "food"
+    ],
+    "headings": [
+      {
+        "heading": "Ingredients",
+        "level": 3
+      },
+      {
+        "heading": "Steps",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Transmission Lines",
+    "relativePath": "Radio/Transmission Lines.md",
+    "tags": [
+      "radio"
+    ],
+    "headings": [
+      {
+        "heading": "Coaxial",
+        "level": 3
+      },
+      {
+        "heading": "Parallel",
+        "level": 3
+      },
+      {
+        "heading": "Harmonics",
+        "level": 3
+      },
+      {
+        "heading": "Standing Wave Ratio (SWR)",
+        "level": 3
+      },
+      {
+        "heading": "Other",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Regulations",
+    "relativePath": "Radio/Regulations.md",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "fileName": "Propagation",
+    "relativePath": "Radio/Propagation.md",
+    "tags": [
+      "radio"
+    ],
+    "headings": [
+      {
+        "heading": "Good & Bad Conditions",
+        "level": 3
+      },
+      {
+        "heading": "Ionosphere Layers",
+        "level": 3
+      },
+      {
+        "heading": "Solar Activity",
+        "level": 3
+      },
+      {
+        "heading": "Software",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Power",
+    "relativePath": "Radio/Power.md",
+    "tags": [
+      "electrical"
+    ],
+    "headings": [
+      {
+        "heading": "Watts (P or W)",
+        "level": 3
+      },
+      {
+        "heading": "Magnetics",
+        "level": 3
+      },
+      {
+        "heading": "Battery",
+        "level": 3
+      },
+      {
+        "heading": "Resistor Chart",
+        "level": 3
+      },
+      {
+        "heading": "Human Hearing",
+        "level": 3
+      },
+      {
+        "heading": "Decibals",
+        "level": 3
+      },
+      {
+        "heading": "Capacitors (Farads F)",
+        "level": 3
+      },
+      {
+        "heading": "Inductors",
+        "level": 3
+      },
+      {
+        "heading": "AC",
+        "level": 3
+      },
+      {
+        "heading": "DC",
+        "level": 3
+      },
+      {
+        "heading": "Resonance",
+        "level": 3
+      },
+      {
+        "heading": "Transformers",
+        "level": 3
+      },
+      {
+        "heading": "Amplifiers",
+        "level": 3
+      },
+      {
+        "heading": "Diodes (rectifier)",
+        "level": 3
+      },
+      {
+        "heading": "Vacuum Tube",
+        "level": 3
+      },
+      {
+        "heading": "Power Supply",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "NATO Alphabet",
+    "relativePath": "Radio/NATO Alphabet.md",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "fileName": "Metric Prefixes",
+    "relativePath": "Radio/Metric Prefixes.md",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "fileName": "Interference",
+    "relativePath": "Radio/Interference.md",
+    "tags": [
+      "radio"
+    ]
+  },
+  {
+    "fileName": "Antennas",
+    "relativePath": "Radio/Antennas.md",
+    "tags": [
+      "radio"
+    ],
+    "headings": [
+      {
+        "heading": "Polarity",
+        "level": 3
+      },
+      {
+        "heading": "Antenna Length",
+        "level": 3
+      },
+      {
+        "heading": "Antenna Calculations",
+        "level": 3
+      },
+      {
+        "heading": "Yagi",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "wifi",
+    "relativePath": "Quick-Reference/wifi.md"
+  },
+  {
+    "fileName": "verify",
+    "relativePath": "Quick-Reference/verify.md"
+  },
+  {
+    "fileName": "users",
+    "relativePath": "Quick-Reference/users.md"
+  },
+  {
+    "fileName": "text",
+    "relativePath": "Quick-Reference/text.md"
+  },
+  {
+    "fileName": "stable",
+    "relativePath": "Quick-Reference/stable.md"
+  },
+  {
+    "fileName": "ssh",
+    "relativePath": "Quick-Reference/ssh.md"
+  },
+  {
+    "fileName": "script",
+    "relativePath": "Quick-Reference/script.md",
+    "headings": [
+      {
+        "heading": "print 1-5",
+        "level": 1
+      },
+      {
+        "heading": "countdown",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "$counter -gt 0"
+      }
+    ]
+  },
+  {
+    "fileName": "rev-eng",
+    "relativePath": "Quick-Reference/rev-eng.md"
+  },
+  {
+    "fileName": "regex",
+    "relativePath": "Quick-Reference/regex.md"
+  },
+  {
+    "fileName": "perms",
+    "relativePath": "Quick-Reference/perms.md"
+  },
+  {
+    "fileName": "nmap",
+    "relativePath": "Quick-Reference/nmap.md"
+  },
+  {
+    "fileName": "input-output",
+    "relativePath": "Quick-Reference/input-output.md"
+  },
+  {
+    "fileName": "hydra",
+    "relativePath": "Quick-Reference/hydra.md",
+    "headings": [
+      {
+        "heading": "SSH bruteforce",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "help",
+    "relativePath": "Quick-Reference/help.md"
+  },
+  {
+    "fileName": "gpg",
+    "relativePath": "Quick-Reference/gpg.md"
+  },
+  {
+    "fileName": "forensic",
+    "relativePath": "Quick-Reference/forensic.md"
+  },
+  {
+    "fileName": "find",
+    "relativePath": "Quick-Reference/find.md"
+  },
+  {
+    "fileName": "fake-ap",
+    "relativePath": "Quick-Reference/fake-ap.md"
+  },
+  {
+    "fileName": "cipher",
+    "relativePath": "Quick-Reference/cipher.md"
+  },
+  {
+    "fileName": "String Arguments",
+    "relativePath": "Programming/String Arguments.md"
+  },
+  {
+    "fileName": "Lists",
+    "relativePath": "Programming/Python/Lists.md",
+    "headings": [
+      {
+        "heading": "Lists",
+        "level": 1
+      },
+      {
+        "heading": "Lists use Brackets",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Final Exam Notes",
+    "relativePath": "Programming/Final Exam Notes.md",
+    "headings": [
+      {
+        "heading": "Order of Operations",
+        "level": 2
+      },
+      {
+        "heading": "Dictionaries",
+        "level": 2
+      },
+      {
+        "heading": "Accessing and changing dictionaries",
+        "level": 5
+      },
+      {
+        "heading": "Dictionary Syntax",
+        "level": 5
+      },
+      {
+        "heading": "Dictionary Methods",
+        "level": 5
+      },
+      {
+        "heading": "Loops",
+        "level": 2
+      },
+      {
+        "heading": "Functions",
+        "level": 2
+      },
+      {
+        "heading": "Return vs Print",
+        "level": 5
+      },
+      {
+        "heading": "Classes",
+        "level": 2
+      },
+      {
+        "heading": "Special Functions",
+        "level": 5
+      },
+      {
+        "heading": "Errors",
+        "level": 2
+      },
+      {
+        "heading": "Files",
+        "level": 2
+      },
+      {
+        "heading": "Regular Files",
+        "level": 5
+      },
+      {
+        "heading": "CSV files",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "Common Built-In Methods",
+    "relativePath": "Programming/Common Built-In Methods.md",
+    "headings": [
+      {
+        "heading": "Strings",
+        "level": 4
+      },
+      {
+        "heading": "Lists",
+        "level": 4
+      },
+      {
+        "heading": "Dictionary",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Common Built-In Functions",
+    "relativePath": "Programming/Common Built-In Functions.md",
+    "headings": [
+      {
+        "heading": "Common",
+        "level": 4
+      },
+      {
+        "heading": "Iterables",
+        "level": 4
+      },
+      {
+        "heading": "Files",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Implicit vs Explicit",
+    "relativePath": "Programming/C/Implicit vs Explicit.md",
+    "headings": [
+      {
+        "heading": "Implicit",
+        "level": 3
+      },
+      {
+        "heading": "Explicit",
+        "level": 3
+      },
+      {
+        "heading": "More Info",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Format Specifiers",
+    "relativePath": "Programming/C/Format Specifiers.md"
+  },
+  {
+    "fileName": "Operation",
+    "relativePath": "Networking/Switching/WLANs/Operation.md",
+    "tags": [
+      "wlans"
+    ],
+    "headings": [
+      {
+        "heading": "BSS",
+        "level": 3
+      },
+      {
+        "heading": "ESS",
+        "level": 3
+      },
+      {
+        "heading": "CSMA/CA",
+        "level": 3
+      },
+      {
+        "heading": "CAPWAP",
+        "level": 3
+      },
+      {
+        "heading": "FlexConnect",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Access Points",
+    "relativePath": "Networking/Switching/WLANs/Access Points.md",
+    "tags": [
+      "wlans"
+    ],
+    "headings": [
+      {
+        "heading": "Antennas",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "802.11 Standards",
+    "relativePath": "Networking/Switching/WLANs/802.11 Standards.md",
+    "tags": [
+      "wlans"
+    ]
+  },
+  {
+    "fileName": "VLAN Trunks",
+    "relativePath": "Networking/Switching/VLANs/VLAN Trunks.md",
+    "tags": [
+      "vlans"
+    ],
+    "headings": [
+      {
+        "heading": "DTP",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "VLAN Trunking Protocol (VTP)",
+    "relativePath": "Networking/Switching/VLANs/VLAN Trunking Protocol (VTP).md",
+    "tags": [
+      "vlans"
+    ],
+    "headings": [
+      {
+        "heading": "Versions",
+        "level": 3
+      },
+      {
+        "heading": "Verification",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Inter-VLAN Routing",
+    "relativePath": "Networking/Switching/VLANs/Inter-VLAN Routing.md",
+    "tags": [
+      "vlans"
+    ],
+    "headings": [
+      {
+        "heading": "InterVLAN Router",
+        "level": 3
+      },
+      {
+        "heading": "Router-on-a-stick",
+        "level": 3
+      },
+      {
+        "heading": "Multi-layer Switch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Dynamic Trunking Protocol (DTP)",
+    "relativePath": "Networking/Switching/VLANs/Dynamic Trunking Protocol (DTP).md"
+  },
+  {
+    "fileName": "Versions of STP",
+    "relativePath": "Networking/Switching/Spanning-Tree/Versions of STP.md",
+    "tags": [
+      "spanning-tree"
+    ]
+  },
+  {
+    "fileName": "Unidirectional Link Detection (UDLD)",
+    "relativePath": "Networking/Switching/Spanning-Tree/Unidirectional Link Detection (UDLD).md"
+  },
+  {
+    "fileName": "Roles & States",
+    "relativePath": "Networking/Switching/Spanning-Tree/Roles & States.md",
+    "tags": [
+      "spanning-tree"
+    ],
+    "headings": [
+      {
+        "heading": "Roles",
+        "level": 4
+      },
+      {
+        "heading": "States",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Purpose of STP",
+    "relativePath": "Networking/Switching/Spanning-Tree/Purpose of STP.md",
+    "tags": [
+      "spanning-tree"
+    ],
+    "headings": [
+      {
+        "heading": "Root Ports",
+        "level": 4
+      },
+      {
+        "heading": "Timers",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "PortFast",
+    "relativePath": "Networking/Switching/Spanning-Tree/PortFast.md",
+    "tags": [
+      "spanning-tree"
+    ],
+    "headings": [
+      {
+        "heading": "BPDUGuard",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Multiple Spanning Tree (MST)",
+    "relativePath": "Networking/Switching/Spanning-Tree/Multiple Spanning Tree (MST).md",
+    "headings": [
+      {
+        "heading": "Common Issues",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Loopguard",
+    "relativePath": "Networking/Switching/Spanning-Tree/Loopguard.md"
+  },
+  {
+    "fileName": "Election Process",
+    "relativePath": "Networking/Switching/Spanning-Tree/Election Process.md",
+    "tags": [
+      "spanning-tree"
+    ]
+  },
+  {
+    "fileName": "BPDUs & BID",
+    "relativePath": "Networking/Switching/Spanning-Tree/BPDUs & BID.md",
+    "tags": [
+      "spanning-tree"
+    ]
+  },
+  {
+    "fileName": "BPDU Filter",
+    "relativePath": "Networking/Switching/Spanning-Tree/BPDU Filter.md"
+  },
+  {
+    "fileName": "Access Control",
+    "relativePath": "Networking/Switching/Security/Access Control.md",
+    "tags": [
+      "acls"
+    ],
+    "headings": [
+      {
+        "heading": "802.1x",
+        "level": 3
+      },
+      {
+        "heading": "Layer 2 Attack Mitigation",
+        "level": 3
+      },
+      {
+        "heading": "Port Security",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "HSRP",
+    "relativePath": "Networking/Switching/FHRP/HSRP.md",
+    "tags": [
+      "fhrp"
+    ],
+    "headings": [
+      {
+        "heading": "Priority",
+        "level": 3
+      },
+      {
+        "heading": "States",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "First Hope Redundancy Protocols",
+    "relativePath": "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+    "tags": [
+      "fhrp"
+    ],
+    "headings": [
+      {
+        "heading": "Hot Standby Router Protocol (HSRP)",
+        "level": 3
+      },
+      {
+        "heading": "Virtual Router Redundancy Protocol v2 (VRRPv2)",
+        "level": 3
+      },
+      {
+        "heading": "Gateway Load Balancing Protocol (GLBP)",
+        "level": 3
+      },
+      {
+        "heading": "ICMP Router Discovery Protocol (IRDP)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Ethernet Frame",
+    "relativePath": "Networking/Switching/Ethernet Frame.md"
+  },
+  {
+    "fileName": "Operation",
+    "relativePath": "Networking/Switching/EtherChannel/Operation.md",
+    "tags": [
+      "etherchannel"
+    ],
+    "headings": [
+      {
+        "heading": "PAgP Modes",
+        "level": 3
+      },
+      {
+        "heading": "LACP Modes",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "SLAAC",
+    "relativePath": "Networking/Switching/DHCP/SLAAC.md",
+    "tags": [
+      "dhcp"
+    ],
+    "headings": [
+      {
+        "heading": "Process",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "IPv6 DHCP Assignment",
+    "relativePath": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+    "tags": [
+      "dhcp"
+    ],
+    "headings": [
+      {
+        "heading": "Stateful DHCP",
+        "level": 4
+      },
+      {
+        "heading": "Stateless DHCP",
+        "level": 4
+      },
+      {
+        "heading": "SLAAC",
+        "level": 4
+      },
+      {
+        "heading": "Message Flags",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "IPv4 DHCP Operation",
+    "relativePath": "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "tags": [
+      "dhcp"
+    ],
+    "headings": [
+      {
+        "heading": "DORA",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "DHCPv6",
+    "relativePath": "Networking/Switching/DHCP/DHCPv6.md",
+    "tags": [
+      "dhcp"
+    ],
+    "headings": [
+      {
+        "heading": "Roles",
+        "level": 2
+      },
+      {
+        "heading": "DHCPv6 Server",
+        "level": 4
+      },
+      {
+        "heading": "DHCPv6 Client",
+        "level": 4
+      },
+      {
+        "heading": "DHCPv6 Relay Agent",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Subnetting",
+    "relativePath": "Networking/Subnetting.md",
+    "headings": [
+      {
+        "heading": "Subnets based on hosts",
+        "level": 3
+      },
+      {
+        "heading": "Find hosts on subnet",
+        "level": 3
+      },
+      {
+        "heading": "Finding subnet size",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Subnet Sheet",
+    "relativePath": "Networking/Subnet Sheet.md",
+    "tags": [
+      "ip"
+    ],
+    "headings": [
+      {
+        "heading": "Number of Hosts per Subnet",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "WAN Standards",
+    "relativePath": "Networking/Routing/WANs/WAN Standards.md",
+    "headings": [
+      {
+        "heading": "Terminology",
+        "level": 3
+      },
+      {
+        "heading": "Devices",
+        "level": 3
+      },
+      {
+        "heading": "Optical Fiber Layer 1 Standards",
+        "level": 3
+      },
+      {
+        "heading": "Cable Technology",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "VPN Technology",
+    "relativePath": "Networking/Routing/VPNs/VPN Technology.md",
+    "tags": [
+      "vpns"
+    ],
+    "headings": [
+      {
+        "heading": "GRE",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "MPLS",
+    "relativePath": "Networking/Routing/VPNs/MPLS.md",
+    "tags": [
+      "vpns"
+    ]
+  },
+  {
+    "fileName": "States",
+    "relativePath": "Networking/Routing/OSPF/States.md",
+    "tags": [
+      "ospf"
+    ],
+    "headings": [
+      {
+        "heading": "Down State",
+        "level": 4
+      },
+      {
+        "heading": "Init State",
+        "level": 4
+      },
+      {
+        "heading": "Two Way State",
+        "level": 4
+      },
+      {
+        "heading": "ExStart",
+        "level": 4
+      },
+      {
+        "heading": "Exchange",
+        "level": 4
+      },
+      {
+        "heading": "Loading",
+        "level": 4
+      },
+      {
+        "heading": "Full",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "RIP vs OSPF",
+    "relativePath": "Networking/Routing/OSPF/RIP vs OSPF.md",
+    "tags": [
+      "ospf"
+    ],
+    "headings": [
+      {
+        "heading": "RIP",
+        "level": 4
+      },
+      {
+        "heading": "OSPF",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "QUIZ",
+    "relativePath": "Networking/Routing/OSPF/QUIZ.md"
+  },
+  {
+    "fileName": "OSPF Step by Step",
+    "relativePath": "Networking/Routing/OSPF/OSPF Step by Step.md",
+    "tags": [
+      "ospf"
+    ],
+    "headings": [
+      {
+        "heading": "Steps",
+        "level": 4
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 4
+      },
+      {
+        "heading": "Packets",
+        "level": 4
+      },
+      {
+        "heading": "DR & BDR",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Elections & DRs",
+    "relativePath": "Networking/Routing/OSPF/Elections & DRs.md",
+    "tags": [
+      "ospf"
+    ],
+    "headings": [
+      {
+        "heading": "DRs and BDRs",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Components of OSPF",
+    "relativePath": "Networking/Routing/OSPF/Components of OSPF.md",
+    "tags": [
+      "ospf"
+    ],
+    "headings": [
+      {
+        "heading": "Packets",
+        "level": 4
+      },
+      {
+        "heading": "Data Structures",
+        "level": 4
+      },
+      {
+        "heading": "Algorithms",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "What is NAT",
+    "relativePath": "Networking/Routing/NAT/What is NAT.md",
+    "tags": [
+      "nat"
+    ]
+  },
+  {
+    "fileName": "Types of NAT",
+    "relativePath": "Networking/Routing/NAT/Types of NAT.md",
+    "tags": [
+      "nat"
+    ],
+    "headings": [
+      {
+        "heading": "Static NAT",
+        "level": 3
+      },
+      {
+        "heading": "Dynamic NAT",
+        "level": 3
+      },
+      {
+        "heading": "PAT (Port Address Translation)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Metric Table",
+    "relativePath": "Networking/Routing/Metric Table.md"
+  },
+  {
+    "fileName": "IPv4 Header",
+    "relativePath": "Networking/Routing/IPv4 Header.md"
+  },
+  {
+    "fileName": "Operation",
+    "relativePath": "Networking/Routing/EIGRP/Operation.md",
+    "tags": [
+      "eigrp"
+    ],
+    "headings": [
+      {
+        "heading": "Example",
+        "level": 3
+      },
+      {
+        "heading": "Metrics",
+        "level": 3
+      },
+      {
+        "heading": "DUAL (diffusing update algorithm)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "EIGRP",
+    "relativePath": "Networking/Routing/EIGRP/EIGRP.md",
+    "tags": [
+      "eigrp"
+    ],
+    "headings": [
+      {
+        "heading": "Features",
+        "level": 3
+      },
+      {
+        "heading": "PDMs",
+        "level": 3
+      },
+      {
+        "heading": "RTP",
+        "level": 3
+      },
+      {
+        "heading": "Packets Types",
+        "level": 3
+      },
+      {
+        "heading": "Messages",
+        "level": 3
+      },
+      {
+        "heading": "Autonomous System (AS)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Cisco Express Forwarding",
+    "relativePath": "Networking/Routing/CEF/Cisco Express Forwarding.md",
+    "tags": [
+      "networking"
+    ],
+    "headings": [
+      {
+        "heading": "Operation",
+        "level": 3
+      },
+      {
+        "heading": "FIB",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Wildcard Mask",
+    "relativePath": "Networking/Routing/ACLs/Wildcard Mask.md",
+    "tags": [
+      "acls"
+    ],
+    "headings": [
+      {
+        "heading": "How to find mask",
+        "level": 3
+      },
+      {
+        "heading": "Mask cheat sheet",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Purpose",
+    "relativePath": "Networking/Routing/ACLs/Purpose.md",
+    "tags": [
+      "acls"
+    ],
+    "headings": [
+      {
+        "heading": "Standard",
+        "level": 3
+      },
+      {
+        "heading": "Extended",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "ACL Examples",
+    "relativePath": "Networking/Routing/ACLs/ACL Examples.md",
+    "tags": [
+      "acls"
+    ],
+    "headings": [
+      {
+        "heading": "Extended ACL 1:",
+        "level": 3
+      },
+      {
+        "heading": "Extended ACL 2:",
+        "level": 4
+      },
+      {
+        "heading": "Extended ACL 3:",
+        "level": 4
+      },
+      {
+        "heading": "Standard ACL 1:",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Resetting Password",
+    "relativePath": "Networking/Resetting Password.md",
+    "tags": [
+      "ios"
+    ],
+    "headings": [
+      {
+        "heading": "4321 Router",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Need to study",
+    "relativePath": "Networking/Need to study.md",
+    "headings": [
+      {
+        "heading": "Cisco Website",
+        "level": 2
+      },
+      {
+        "heading": "Practice Exam",
+        "level": 2
+      },
+      {
+        "heading": "OSPF",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "IOS Commands",
+    "relativePath": "Networking/IOS Commands.md",
+    "tags": [
+      "ios"
+    ],
+    "headings": [
+      {
+        "heading": "Security",
+        "level": 2
+      },
+      {
+        "heading": "Port Security",
+        "level": 3
+      },
+      {
+        "heading": "ACLs",
+        "level": 3
+      },
+      {
+        "heading": "SSH",
+        "level": 3
+      },
+      {
+        "heading": "Login",
+        "level": 3
+      },
+      {
+        "heading": "Routing",
+        "level": 2
+      },
+      {
+        "heading": "OSPF",
+        "level": 3
+      },
+      {
+        "heading": "EIGRP",
+        "level": 3
+      },
+      {
+        "heading": "NAT",
+        "level": 3
+      },
+      {
+        "heading": "Inter-VLAN Routing",
+        "level": 3
+      },
+      {
+        "heading": "Switching",
+        "level": 2
+      },
+      {
+        "heading": "EtherChannel",
+        "level": 3
+      },
+      {
+        "heading": "VLANs",
+        "level": 3
+      },
+      {
+        "heading": "VLAN Trunking Protocol",
+        "level": 3
+      },
+      {
+        "heading": "Spanning-Tree",
+        "level": 3
+      },
+      {
+        "heading": "DHCP",
+        "level": 2
+      },
+      {
+        "heading": "DHCPv6",
+        "level": 3
+      },
+      {
+        "heading": "Stateless DHCPv6 Server",
+        "level": 4
+      },
+      {
+        "heading": "Stateless DHCPv6 Client",
+        "level": 4
+      },
+      {
+        "heading": "Misc",
+        "level": 2
+      },
+      {
+        "heading": "Navigation",
+        "level": 3
+      },
+      {
+        "heading": "Keybindings",
+        "level": 3
+      },
+      {
+        "heading": "Show (`sh`)",
+        "level": 3
+      },
+      {
+        "heading": "Config (`conf`)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "IEEE",
+    "relativePath": "Networking/IEEE.md",
+    "headings": [
+      {
+        "heading": "802.3 (Ethernet)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Subnet Classes",
+    "relativePath": "Networking/Essentials/Subnet Classes.md",
+    "tags": [
+      "ip"
+    ]
+  },
+  {
+    "fileName": "Reference Models",
+    "relativePath": "Networking/Essentials/Reference Models.md",
+    "tags": [
+      "logical"
+    ],
+    "headings": [
+      {
+        "heading": "OSI Model",
+        "level": 2
+      },
+      {
+        "heading": "**7 - Application**",
+        "level": 4
+      },
+      {
+        "heading": "**6 - Presentation** T",
+        "level": 4
+      },
+      {
+        "heading": "**5 - Session**",
+        "level": 4
+      },
+      {
+        "heading": "**4 - Transport**",
+        "level": 4
+      },
+      {
+        "heading": "**3 - Network**",
+        "level": 4
+      },
+      {
+        "heading": "**2 - Data Link**",
+        "level": 4
+      },
+      {
+        "heading": "**1 - Physical**",
+        "level": 4
+      },
+      {
+        "heading": "TCP/IP",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "QUIZ TAKEAWAYS",
+    "relativePath": "Networking/Essentials/QUIZ TAKEAWAYS.md",
+    "headings": [
+      {
+        "heading": "Module 9",
+        "level": 4
+      },
+      {
+        "heading": "Module 8",
+        "level": 4
+      },
+      {
+        "heading": "Module 7",
+        "level": 4
+      },
+      {
+        "heading": "Module 5",
+        "level": 4
+      },
+      {
+        "heading": "Module 4",
+        "level": 4
+      },
+      {
+        "heading": "Module 3",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "OSI Model",
+    "relativePath": "Networking/Essentials/OSI Model.md",
+    "tags": [
+      "logical"
+    ],
+    "headings": [
+      {
+        "heading": "OSI Model (Troubleshooting)",
+        "level": 1
+      },
+      {
+        "heading": "Physical",
+        "level": 3
+      },
+      {
+        "heading": "Data",
+        "level": 3
+      },
+      {
+        "heading": "Network",
+        "level": 3
+      },
+      {
+        "heading": "Transport",
+        "level": 3
+      },
+      {
+        "heading": "Session",
+        "level": 3
+      },
+      {
+        "heading": "Presentation",
+        "level": 3
+      },
+      {
+        "heading": "Application",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Midterm Notes",
+    "relativePath": "Networking/Essentials/Midterm Notes.md",
+    "tags": [
+      "exam"
+    ]
+  },
+  {
+    "fileName": "Console with Linux",
+    "relativePath": "Networking/Essentials/Console with Linux.md",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "fileName": "8.3 IPv4 and IPv6",
+    "relativePath": "Networking/Essentials/8-Network/8.3 IPv4 and IPv6.md",
+    "headings": [
+      {
+        "heading": "IPv4 Packet Header",
+        "level": 4
+      },
+      {
+        "heading": "IPv6 Packet Header",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "8.1 Routing",
+    "relativePath": "Networking/Essentials/8-Network/8.1 Routing.md",
+    "headings": [
+      {
+        "heading": "Fragmenting",
+        "level": 4
+      },
+      {
+        "heading": "Static Routing",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "7.3 Sending Frames",
+    "relativePath": "Networking/Essentials/7-Ethernet Switching/7.3 Sending Frames.md"
+  },
+  {
+    "fileName": "7.2 Mac Addresses",
+    "relativePath": "Networking/Essentials/7-Ethernet Switching/7.2 Mac Addresses.md",
+    "headings": [
+      {
+        "heading": "Broadcast Address",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "7.1 Encapsulation",
+    "relativePath": "Networking/Essentials/7-Ethernet Switching/7.1 Encapsulation.md",
+    "headings": [
+      {
+        "heading": "Bandwidth",
+        "level": 4
+      },
+      {
+        "heading": "Sublayers",
+        "level": 4
+      },
+      {
+        "heading": "Frame Fields",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "6.3 Frames",
+    "relativePath": "Networking/Essentials/6-Data Link Layer/6.3 Frames.md",
+    "headings": [
+      {
+        "heading": "WAN Protocols",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "6.2 Topologies",
+    "relativePath": "Networking/Essentials/6-Data Link Layer/6.2 Topologies.md",
+    "headings": [
+      {
+        "heading": "Access Control Methods",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "6.1 Purpose",
+    "relativePath": "Networking/Essentials/6-Data Link Layer/6.1 Purpose.md",
+    "headings": [
+      {
+        "heading": "IEEE 802 LAN/MAN Sublayers",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Broadcast Address",
+    "relativePath": "Networking/Essentials/5-Conversions/Broadcast Address.md"
+  },
+  {
+    "fileName": "4.6 Wireless Media",
+    "relativePath": "Networking/Essentials/4-Physical Layer/4.6 Wireless Media.md",
+    "headings": [
+      {
+        "heading": "Limitations",
+        "level": 4
+      },
+      {
+        "heading": "Wireless Standards",
+        "level": 4
+      },
+      {
+        "heading": "Wireless LAN",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "4.5 Fiber-Optic Cabling",
+    "relativePath": "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "tags": [
+      "hardware"
+    ],
+    "headings": [
+      {
+        "heading": "Single-Mode Fiber",
+        "level": 4
+      },
+      {
+        "heading": "Multimode Fiber",
+        "level": 4
+      },
+      {
+        "heading": "Usage",
+        "level": 4
+      },
+      {
+        "heading": "Fiber-Optic Connectors",
+        "level": 4
+      },
+      {
+        "heading": "Fiber Patch Cords",
+        "level": 4
+      },
+      {
+        "heading": "Fiber VS Copper",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "4.4 UTP Cabling",
+    "relativePath": "Networking/Essentials/4-Physical Layer/4.4 UTP Cabling.md",
+    "headings": [
+      {
+        "heading": "Standards and Connectors",
+        "level": 4
+      },
+      {
+        "heading": "Straight-through and Crossover UTP Cables",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "4.3 Copper Cabling",
+    "relativePath": "Networking/Essentials/4-Physical Layer/4.3 Copper Cabling.md",
+    "headings": [
+      {
+        "heading": "Interference",
+        "level": 4
+      },
+      {
+        "heading": "UTP Cabling",
+        "level": 4
+      },
+      {
+        "heading": "Shielded Twisted Pair (STP)",
+        "level": 4
+      },
+      {
+        "heading": "Coaxial Cable",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "4.2 Physical Layer Characteristics",
+    "relativePath": "Networking/Essentials/4-Physical Layer/4.2 Physical Layer Characteristics.md",
+    "headings": [
+      {
+        "heading": "Organisations",
+        "level": 4
+      },
+      {
+        "heading": "Physical Components",
+        "level": 4
+      },
+      {
+        "heading": "Manchester Encoding",
+        "level": 4
+      },
+      {
+        "heading": "Bandwidth",
+        "level": 4
+      },
+      {
+        "heading": "Terminology",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "3.6 Data Encapsulation",
+    "relativePath": "Networking/Essentials/3-Protocols and Models/3.6 Data Encapsulation.md",
+    "headings": [
+      {
+        "heading": "Segmenting Messages",
+        "level": 4
+      },
+      {
+        "heading": "Protocol Data Units",
+        "level": 4
+      },
+      {
+        "heading": "Functions",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "3.4 Standards Organizations",
+    "relativePath": "Networking/Essentials/3-Protocols and Models/3.4 Standards Organizations.md",
+    "headings": [
+      {
+        "heading": "TCP/IP Protocol",
+        "level": 4
+      },
+      {
+        "heading": "IP Allocation",
+        "level": 4
+      },
+      {
+        "heading": "Electronic and Communications",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "3.2 Protocol Suites",
+    "relativePath": "Networking/Essentials/3-Protocols and Models/3.2 Protocol Suites.md"
+  },
+  {
+    "fileName": "3.1 The Rules",
+    "relativePath": "Networking/Essentials/3-Protocols and Models/3.1 The Rules.md",
+    "headings": [
+      {
+        "heading": "Protocol Requirements",
+        "level": 4
+      },
+      {
+        "heading": "Encoding",
+        "level": 4
+      },
+      {
+        "heading": "Size",
+        "level": 4
+      },
+      {
+        "heading": "Timing",
+        "level": 4
+      },
+      {
+        "heading": "Network",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "2.3 The Command Structure",
+    "relativePath": "Networking/Essentials/2-Basic Config/2.3 The Command Structure.md",
+    "tags": [
+      "ios"
+    ],
+    "headings": [
+      {
+        "heading": "2.3.1 Basic IOS Command Structure",
+        "level": 2
+      },
+      {
+        "heading": "Commands",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "2.2 IOS Navigation",
+    "relativePath": "Networking/Essentials/2-Basic Config/2.2 IOS Navigation.md",
+    "tags": [
+      "ios"
+    ],
+    "headings": [
+      {
+        "heading": "2.2.1 Primary Command Modes",
+        "level": 2
+      },
+      {
+        "heading": "User EXEC Mode",
+        "level": 4
+      },
+      {
+        "heading": "Privileged EXEC Mode",
+        "level": 4
+      },
+      {
+        "heading": "2.2.2 Configuration Mode and Subconfiguration Modes",
+        "level": 2
+      },
+      {
+        "heading": "Line Configuration Mode",
+        "level": 4
+      },
+      {
+        "heading": "Interface Configuration Mode",
+        "level": 3
+      },
+      {
+        "heading": "2.2.4 Navigate Between IOS Modes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "2.1 Cisco IOS Access",
+    "relativePath": "Networking/Essentials/2-Basic Config/2.1 Cisco IOS Access.md",
+    "tags": [
+      "ios"
+    ],
+    "headings": [
+      {
+        "heading": "Internetwork Operating System (IOS)",
+        "level": 3
+      },
+      {
+        "heading": "SSH/Telnet",
+        "level": 4
+      },
+      {
+        "heading": "Console",
+        "level": 4
+      },
+      {
+        "heading": "AUX Port",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "UDP vs TCP",
+    "relativePath": "Networking/Essentials/14-Transport Layer/UDP vs TCP.md",
+    "headings": [
+      {
+        "heading": "TCP",
+        "level": 4
+      },
+      {
+        "heading": "UDP",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "SLAAC",
+    "relativePath": "Networking/Essentials/12-IPv6/SLAAC.md",
+    "tags": [
+      "ipv6"
+    ]
+  },
+  {
+    "fileName": "IPv6 Terms",
+    "relativePath": "Networking/Essentials/12-IPv6/IPv6 Terms.md",
+    "tags": [
+      "ipv6"
+    ]
+  },
+  {
+    "fileName": "Dynamic Address",
+    "relativePath": "Networking/Essentials/12-IPv6/Dynamic Address.md",
+    "tags": [
+      "ipv6"
+    ]
+  },
+  {
+    "fileName": "Compressing addresses",
+    "relativePath": "Networking/Essentials/12-IPv6/Compressing addresses.md",
+    "tags": [
+      "ipv6"
+    ]
+  },
+  {
+    "fileName": "Overview",
+    "relativePath": "Networking/Essentials/1-Networking Today/Overview.md",
+    "headings": [
+      {
+        "heading": "Intermediary Devices",
+        "level": 2
+      },
+      {
+        "heading": "LAN",
+        "level": 2
+      },
+      {
+        "heading": "WAN",
+        "level": 2
+      },
+      {
+        "heading": "Internet > Extranet > Intranet",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "CCNA",
+    "relativePath": "Networking/CCNA.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "Subjects",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Business Notes",
+    "relativePath": "Misc/Business Notes.md",
+    "headings": [
+      {
+        "heading": "STAR",
+        "level": 3
+      },
+      {
+        "heading": "Chapter 13",
+        "level": 3
+      },
+      {
+        "heading": "Chapter 5",
+        "level": 3
+      },
+      {
+        "heading": "Chapter 4",
+        "level": 3
+      },
+      {
+        "heading": "Chapter 3",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Midterm",
+    "relativePath": "Linux/Midterm.md",
+    "tags": [
+      "exam"
+    ],
+    "headings": [
+      {
+        "heading": "Logging",
+        "level": 3
+      },
+      {
+        "heading": "Find",
+        "level": 3
+      },
+      {
+        "heading": "Scripts",
+        "level": 3
+      },
+      {
+        "heading": "Scheduling",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Logical Volumes",
+    "relativePath": "Linux/Logical Volumes.md",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "fileName": "13.1 - Device Nodes",
+    "relativePath": "Linux/13.1 - Device Nodes.md",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "fileName": "13 - Find",
+    "relativePath": "Linux/13 - Find.md",
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "fileName": "12 - Packages",
+    "relativePath": "Linux/12 - Packages.md",
+    "tags": [
+      "linux"
+    ],
+    "headings": [
+      {
+        "heading": "RPM",
+        "level": 4
+      },
+      {
+        "heading": "DNF",
+        "level": 4
+      },
+      {
+        "heading": "YUM",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "11 - Networking",
+    "relativePath": "Linux/11 - Networking.md",
+    "tags": [
+      "linux",
+      "networking"
+    ],
+    "headings": [
+      {
+        "heading": "Interface Naming",
+        "level": 4
+      },
+      {
+        "heading": "ip",
+        "level": 4
+      },
+      {
+        "heading": "nmcli",
+        "level": 4
+      },
+      {
+        "heading": "Misc Commands",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "1 - Regex",
+    "relativePath": "Linux/1 - Regex.md",
+    "tags": [
+      "linux"
+    ],
+    "headings": [
+      {
+        "heading": "Regex Characters",
+        "level": 4
+      },
+      {
+        "heading": "Grep Switches",
+        "level": 4
+      },
+      {
+        "heading": "Examples",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Important Directories",
+    "relativePath": "Hacking/Windows/Important Directories.md",
+    "tags": [
+      "windows"
+    ]
+  },
+  {
+    "fileName": "XSS",
+    "relativePath": "Hacking/Web/XSS.md",
+    "headings": [
+      {
+        "heading": "XSS DOM",
+        "level": 3
+      },
+      {
+        "heading": "XSS Reflected",
+        "level": 3
+      },
+      {
+        "heading": "XSS Stored",
+        "level": 3
+      },
+      {
+        "heading": "Changing Cookies with JavaScript",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Server-Side Exploits",
+    "relativePath": "Hacking/Web/Server-Side Exploits.md",
+    "headings": [
+      {
+        "heading": "Local File Inclusion",
+        "level": 3
+      },
+      {
+        "heading": "Uploaded File Exploits",
+        "level": 3
+      },
+      {
+        "heading": "Remote File Inclusion",
+        "level": 3
+      },
+      {
+        "heading": "Cross Site Scripting (XSS)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "PHP",
+    "relativePath": "Hacking/Web/PHP.md"
+  },
+  {
+    "fileName": "Msfvenom",
+    "relativePath": "Hacking/Tools/Msfvenom.md",
+    "headings": [
+      {
+        "heading": "Options",
+        "level": 3
+      },
+      {
+        "heading": "Examples",
+        "level": 3
+      },
+      {
+        "heading": "PHP Reverse Shell",
+        "level": 6
+      },
+      {
+        "heading": "Python",
+        "level": 6
+      },
+      {
+        "heading": "Windows",
+        "level": 6
+      },
+      {
+        "heading": "Linux Executable",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "fileName": "Metasploit",
+    "relativePath": "Hacking/Tools/Metasploit.md",
+    "tags": [
+      "tools"
+    ],
+    "headings": [
+      {
+        "heading": "Database",
+        "level": 3
+      },
+      {
+        "heading": "Exploits",
+        "level": 3
+      },
+      {
+        "heading": "Examples",
+        "level": 3
+      },
+      {
+        "heading": "Kernel Exploit",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "fileName": "Types of Malware",
+    "relativePath": "Hacking/RE & Malware Analysis/Types of Malware.md",
+    "headings": [
+      {
+        "heading": "Types of Malware",
+        "level": 1
+      },
+      {
+        "heading": "Randsomware",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Resources",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/Resources.md",
+    "headings": [
+      {
+        "heading": "Resources",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Pulling File Hashes",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/Pulling File Hashes.md",
+    "headings": [
+      {
+        "heading": "Pulling File Hashs",
+        "level": 1
+      },
+      {
+        "heading": "SHA256",
+        "level": 2
+      },
+      {
+        "heading": "MD5",
+        "level": 2
+      },
+      {
+        "heading": "Virus Databases",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Packing Malware",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/Packing Malware.md",
+    "headings": [
+      {
+        "heading": "Packing Malware",
+        "level": 1
+      },
+      {
+        "heading": "Packing Stub / Compression Stub \\ Coder Stub",
+        "level": 3
+      },
+      {
+        "heading": "Why?",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "FLOSS",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/FLOSS.md",
+    "headings": [
+      {
+        "heading": "FLOSS and Pulling Strings",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Basic Static Analysis",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/Basic Static Analysis.md",
+    "headings": [
+      {
+        "heading": "Basic Static Analysis",
+        "level": 1
+      },
+      {
+        "heading": "Basic Static",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Analysing Hexdata",
+    "relativePath": "Hacking/RE & Malware Analysis/Static Analysis/Analysing Hexdata.md",
+    "headings": [
+      {
+        "heading": "Analysing Hexdata",
+        "level": 1
+      },
+      {
+        "heading": "Compiled Time Stamp",
+        "level": 2
+      },
+      {
+        "heading": "Section Headers",
+        "level": 2
+      },
+      {
+        "heading": "Virtual Size & Raw Data Size",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Safety & Extensions",
+    "relativePath": "Hacking/RE & Malware Analysis/Safety & Extensions.md",
+    "headings": [
+      {
+        "heading": "Extensions",
+        "level": 1
+      },
+      {
+        "heading": "High Danger",
+        "level": 3
+      },
+      {
+        "heading": "Medium Danger",
+        "level": 3
+      },
+      {
+        "heading": "Transportation",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "RAT.Unknown.exe",
+    "relativePath": "Hacking/RE & Malware Analysis/Practice Files/RAT.Unknown.exe.md",
+    "headings": [
+      {
+        "heading": "`RAT.Unknown.exe`",
+        "level": 2
+      },
+      {
+        "heading": "Static Analysis",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Dropper.DownloadFromURL.exe",
+    "relativePath": "Hacking/RE & Malware Analysis/Practice Files/Dropper.DownloadFromURL.exe.md",
+    "headings": [
+      {
+        "heading": "AKA `Malware.Unknown.exe`",
+        "level": 2
+      },
+      {
+        "heading": "Static Analysis",
+        "level": 1
+      },
+      {
+        "heading": "Strings",
+        "level": 3
+      },
+      {
+        "heading": "Hashes",
+        "level": 3
+      },
+      {
+        "heading": "Windows API Calls",
+        "level": 3
+      },
+      {
+        "heading": "Dynamic Analysis",
+        "level": 1
+      },
+      {
+        "heading": "Network Indicators",
+        "level": 3
+      },
+      {
+        "heading": "Host Indicators",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Tools",
+    "relativePath": "Hacking/RE & Malware Analysis/Dynamic Analysis/Tools.md",
+    "headings": [
+      {
+        "heading": "Tools",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Basic Dynamic Analysis _ Heuristic Behavioral Anal",
+    "relativePath": "Hacking/RE & Malware Analysis/Dynamic Analysis/Basic Dynamic Analysis _ Heuristic Behavioral Anal.md",
+    "headings": [
+      {
+        "heading": "Basic Dynamic Analysis / Heuristic Behavioral Analysis",
+        "level": 1
+      },
+      {
+        "heading": "Host Indicators",
+        "level": 2
+      },
+      {
+        "heading": "Network Indicators",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Sock Puppets",
+    "relativePath": "Hacking/OSINT/Setup/Sock Puppets.md",
+    "headings": [
+      {
+        "heading": "Sock Puppet Accounts",
+        "level": 1
+      },
+      {
+        "heading": "Tips",
+        "level": 3
+      },
+      {
+        "heading": "Resources",
+        "level": 1
+      },
+      {
+        "heading": "Articles on Sock Puppets",
+        "level": 3
+      },
+      {
+        "heading": "Tools",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Google Operators",
+    "relativePath": "Hacking/OSINT/Setup/Google Operators.md",
+    "headings": [
+      {
+        "heading": "Google Operators",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "OSINT Part 3 - Case Management",
+    "relativePath": "Hacking/OSINT/OSINT Part 3 - Case Management.md",
+    "headings": [
+      {
+        "heading": "Case Management",
+        "level": 1
+      },
+      {
+        "heading": "OSINT Browser's for case management",
+        "level": 1
+      },
+      {
+        "heading": "Workflows/Illustrations",
+        "level": 2
+      },
+      {
+        "heading": "Here is what you should look for:",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "OSINT Part 2 - Tools",
+    "relativePath": "Hacking/OSINT/OSINT Part 2 - Tools.md",
+    "headings": [
+      {
+        "heading": "(OSINT TOOLS)  - LIST AND MORE",
+        "level": 1
+      },
+      {
+        "heading": "▬▬ι═══════ﺤ",
+        "level": 1
+      },
+      {
+        "heading": "DISCLAIMER",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "OSINT Part 1 - Introduction",
+    "relativePath": "Hacking/OSINT/OSINT Part 1 - Introduction.md"
+  },
+  {
+    "fileName": "Physical OSINT",
+    "relativePath": "Hacking/OSINT/Geographical/Physical OSINT.md",
+    "headings": [
+      {
+        "heading": "Physical OSINT",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 3
+      },
+      {
+        "heading": "Strategies",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Identifiying Geographical Locations",
+    "relativePath": "Hacking/OSINT/Geographical/Identifiying Geographical Locations.md",
+    "headings": [
+      {
+        "heading": "Identifiying Geographical Locations",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 3
+      },
+      {
+        "heading": "Example:",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Email",
+    "relativePath": "Hacking/OSINT/Credentials/Email.md",
+    "headings": [
+      {
+        "heading": "Email",
+        "level": 1
+      },
+      {
+        "heading": "Tools",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Tools",
+    "relativePath": "Hacking/Forensics/Tools.md",
+    "headings": [
+      {
+        "heading": "ghex",
+        "level": 2
+      },
+      {
+        "heading": "binwalk",
+        "level": 2
+      },
+      {
+        "heading": "strings",
+        "level": 2
+      },
+      {
+        "heading": "exiftool",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "File Magic Numbers",
+    "relativePath": "Hacking/Forensics/File Magic Numbers.md",
+    "headings": [
+      {
+        "heading": "Image Files",
+        "level": 2
+      },
+      {
+        "heading": "Compressed files",
+        "level": 2
+      },
+      {
+        "heading": "Archive files",
+        "level": 2
+      },
+      {
+        "heading": "Excecutable files",
+        "level": 2
+      },
+      {
+        "heading": "Miscellaneous files",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Five Stages of Ethical Hacking",
+    "relativePath": "Hacking/Five Stages of Ethical Hacking.md",
+    "headings": [
+      {
+        "heading": "Recon",
+        "level": 2
+      },
+      {
+        "heading": "Scanning & Enumeration",
+        "level": 2
+      },
+      {
+        "heading": "Gaining Access (Exploitation)",
+        "level": 2
+      },
+      {
+        "heading": "Maintaining Access",
+        "level": 2
+      },
+      {
+        "heading": "Covering Tracks (Cleaning Up)",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Day to Day",
+    "relativePath": "Hacking/Day to Day.md",
+    "headings": [
+      {
+        "heading": "Day to Day",
+        "level": 1
+      },
+      {
+        "heading": "SOC (Purple Team)",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "fsoc Desktop",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Mr Robot/fsoc Desktop.md",
+    "headings": [
+      {
+        "heading": "suggested vuln?",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "General",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Mr Robot/General.md"
+  },
+  {
+    "fileName": "Vulns",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Vulns.md",
+    "headings": [
+      {
+        "heading": "Webserver",
+        "level": 3
+      },
+      {
+        "heading": "SSH",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Notes",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Notes.md"
+  },
+  {
+    "fileName": "Nikto Scan",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md"
+  },
+  {
+    "fileName": "Notes",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Dev/Notes.md",
+    "links": [
+      {
+        "link": "Feroxbuster.md",
+        "displayText": "Feroxbuster",
+        "relativePath": "Hacking/CTFs & Boxes/VulnHub/Dev/Feroxbuster.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nmap",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Dev/Nmap.md"
+  },
+  {
+    "fileName": "Feroxbuster",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Dev/Feroxbuster.md",
+    "headings": [
+      {
+        "heading": "Port 80",
+        "level": 3
+      },
+      {
+        "heading": "Port 8080",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Notes",
+        "link": "Feroxbuster.md",
+        "relativePath": "Hacking/CTFs & Boxes/VulnHub/Dev/Notes.md",
+        "displayText": "Feroxbuster"
+      }
+    ]
+  },
+  {
+    "fileName": "Nmap",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Butler/Nmap.md"
+  },
+  {
+    "fileName": "Notes",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Blue/Notes.md"
+  },
+  {
+    "fileName": "Nmap",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Blue/Nmap.md"
+  },
+  {
+    "fileName": "Notes",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Academy/Notes.md"
+  },
+  {
+    "fileName": "Nmap",
+    "relativePath": "Hacking/CTFs & Boxes/VulnHub/Academy/Nmap.md"
+  },
+  {
+    "fileName": "GoldenEye",
+    "relativePath": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+    "headings": [
+      {
+        "heading": "Enumeration",
+        "level": 3
+      },
+      {
+        "heading": "HTTP (80)",
+        "level": 3
+      },
+      {
+        "heading": "POP3 (55007)",
+        "level": 3
+      },
+      {
+        "heading": "severnaya-station.com/gnocertdir",
+        "level": 3
+      },
+      {
+        "heading": "Kernel exploit",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "CyberLens",
+    "relativePath": "Hacking/CTFs & Boxes/THM/CyberLens.md",
+    "tags": [
+      "box"
+    ],
+    "headings": [
+      {
+        "heading": "Enumeration",
+        "level": 3
+      },
+      {
+        "heading": "Metasploit",
+        "level": 3
+      },
+      {
+        "heading": "PrivEsc",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Blueprint",
+    "relativePath": "Hacking/CTFs & Boxes/THM/Blueprint.md",
+    "tags": [
+      "box"
+    ],
+    "headings": [
+      {
+        "heading": "Enumeration",
+        "level": 3
+      },
+      {
+        "heading": "Metasploit",
+        "level": 3
+      },
+      {
+        "heading": "PrivEsc",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "GET aHEAD",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/Web/GET aHEAD.md"
+  },
+  {
+    "fileName": "transformation",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/RevEng/transformation.md"
+  },
+  {
+    "fileName": "Static ain't always noise",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/General/Static ain't always noise.md"
+  },
+  {
+    "fileName": "Nice netcat...",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/General/Nice netcat....md"
+  },
+  {
+    "fileName": "Magikarp Ground Mission",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/General/Magikarp Ground Mission.md"
+  },
+  {
+    "fileName": "tunn3l v1s10n",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/Forensics/tunn3l v1s10n.md",
+    "headings": [
+      {
+        "heading": "General",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "information",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/Forensics/information.md"
+  },
+  {
+    "fileName": "Matryoshka doll",
+    "relativePath": "Hacking/CTFs & Boxes/PicoGym/Forensics/Matryoshka doll.md",
+    "headings": [
+      {
+        "heading": "General",
+        "level": 2
+      },
+      {
+        "heading": "Hidden directories",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Inital",
+    "relativePath": "Hacking/Active Directory/Inital.md",
+    "headings": [
+      {
+        "heading": "Responder",
+        "level": 3
+      },
+      {
+        "heading": "Hashcat",
+        "level": 3
+      },
+      {
+        "heading": "Defense",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Windows Active Directory",
+    "relativePath": "Desktop Support & Maintenance/Windows Active Directory.md",
+    "headings": [
+      {
+        "heading": "Default Groups",
+        "level": 4
+      },
+      {
+        "heading": "AD Groups",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Virtualization",
+    "relativePath": "Desktop Support & Maintenance/Virtualization.md",
+    "headings": [
+      {
+        "heading": "Hypervisors",
+        "level": 4
+      },
+      {
+        "heading": "Benefits",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Storage",
+    "relativePath": "Desktop Support & Maintenance/Storage.md",
+    "headings": [
+      {
+        "heading": "HDD Platter Layout",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "RAID",
+    "relativePath": "Desktop Support & Maintenance/RAID.md",
+    "headings": [
+      {
+        "heading": "RAID Calculations",
+        "level": 4
+      },
+      {
+        "heading": "Fake RAID",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Final Notes",
+    "relativePath": "Desktop Support & Maintenance/Final Notes.md"
+  },
+  {
+    "fileName": "Cloud Computing",
+    "relativePath": "Desktop Support & Maintenance/Cloud Computing.md",
+    "headings": [
+      {
+        "heading": "Benefits",
+        "level": 4
+      },
+      {
+        "heading": "Infrastructure as a Service (IaaS)",
+        "level": 4
+      },
+      {
+        "heading": "Platform as a Service (PaaS)",
+        "level": 4
+      },
+      {
+        "heading": "Software as a Service (SaaS)",
+        "level": 4
+      },
+      {
+        "heading": "Security as a Service (SecaaS)",
+        "level": 4
+      },
+      {
+        "heading": "Identity as a Service (IDaaS)",
+        "level": 4
+      },
+      {
+        "heading": "Public Cloud",
+        "level": 4
+      },
+      {
+        "heading": "Private Cloud",
+        "level": 4
+      },
+      {
+        "heading": "Community Cloud",
+        "level": 4
+      },
+      {
+        "heading": "Hybrid Cloud",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Advanced Components",
+    "relativePath": "Desktop Support & Maintenance/Advanced Components.md",
+    "headings": [
+      {
+        "heading": "Read Only Memory (ROM)",
+        "level": 2
+      },
+      {
+        "heading": "ROM Chip",
+        "level": 5
+      },
+      {
+        "heading": "PROM",
+        "level": 5
+      },
+      {
+        "heading": "EPROM",
+        "level": 5
+      },
+      {
+        "heading": "EEPROM",
+        "level": 5
+      },
+      {
+        "heading": "Flash Memory",
+        "level": 2
+      },
+      {
+        "heading": "NOR Flash",
+        "level": 5
+      },
+      {
+        "heading": "NAND Flash",
+        "level": 5
+      },
+      {
+        "heading": "SPI Flash",
+        "level": 5
+      },
+      {
+        "heading": "Memory",
+        "level": 2
+      },
+      {
+        "heading": "Buffered Memory (RDIMM)",
+        "level": 5
+      },
+      {
+        "heading": "Memory CAS Latency",
+        "level": 5
+      },
+      {
+        "heading": "Error Correcting Code (EEC)",
+        "level": 5
+      },
+      {
+        "heading": "Timing Parameters",
+        "level": 5
+      },
+      {
+        "heading": "Serial Presence Detect (SPD)",
+        "level": 4
+      },
+      {
+        "heading": "Expansion Cards",
+        "level": 2
+      },
+      {
+        "heading": "PCIe (peripheral component interconnect express)",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "fileName": "RAM",
+    "relativePath": "Desktop Support & Maintenance/3-Components/RAM.md"
+  },
+  {
+    "fileName": "Motherboards",
+    "relativePath": "Desktop Support & Maintenance/3-Components/Motherboards.md",
+    "headings": [
+      {
+        "heading": "CPU Sockets",
+        "level": 4
+      },
+      {
+        "heading": "Memory",
+        "level": 4
+      },
+      {
+        "heading": "Expansion Slots",
+        "level": 4
+      },
+      {
+        "heading": "Chipset",
+        "level": 4
+      },
+      {
+        "heading": "BIOS & UEFI",
+        "level": 4
+      },
+      {
+        "heading": "SATA",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "9.3 Onboarding and Offboarding Checklists",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.3 Onboarding and Offboarding Checklists.md",
+    "headings": [
+      {
+        "heading": "Onboarding",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 4
+      },
+      {
+        "heading": "Training",
+        "level": 4
+      },
+      {
+        "heading": "Security Training",
+        "level": 4
+      },
+      {
+        "heading": "Offboarding",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "9.1 Documentation",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/9.1 Documentation.md",
+    "headings": [
+      {
+        "heading": "Policies and Procedures",
+        "level": 4
+      },
+      {
+        "heading": "Security Policy",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "8.1 Ticketing",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/8.1 Ticketing.md",
+    "headings": [
+      {
+        "heading": "Identify Issues",
+        "level": 4
+      },
+      {
+        "heading": "Escalation",
+        "level": 4
+      },
+      {
+        "heading": "Resolve Issues",
+        "level": 4
+      },
+      {
+        "heading": "Asset Management",
+        "level": 4
+      },
+      {
+        "heading": "Procurement",
+        "level": 4
+      },
+      {
+        "heading": "Deployment",
+        "level": 4
+      },
+      {
+        "heading": "Operations",
+        "level": 4
+      },
+      {
+        "heading": "Decommissioning",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "7.1 Troubleshooting Process",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/7.1 Troubleshooting Process.md",
+    "headings": [
+      {
+        "heading": "Gather Information",
+        "level": 4
+      },
+      {
+        "heading": "Identify Changes",
+        "level": 4
+      },
+      {
+        "heading": "Establish Theory",
+        "level": 4
+      },
+      {
+        "heading": "Action Plan",
+        "level": 4
+      },
+      {
+        "heading": "Wrap-up",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "6.1 PC and Networking Tools",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/6.1 PC and Networking Tools.md",
+    "headings": [
+      {
+        "heading": "Multimeter",
+        "level": 4
+      },
+      {
+        "heading": "Power Supply Tester",
+        "level": 4
+      },
+      {
+        "heading": "Tone Generator and Probe",
+        "level": 4
+      },
+      {
+        "heading": "Cable Tester",
+        "level": 4
+      },
+      {
+        "heading": "Loopback Plug",
+        "level": 4
+      },
+      {
+        "heading": "Known Good Spares",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "5.1 Maintenance Best Practices",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/5.1 Maintenance Best Practices.md",
+    "headings": [
+      {
+        "heading": "EMI (electromagnetic interference)",
+        "level": 5
+      },
+      {
+        "heading": "RFI (radio frequency interference)",
+        "level": 4
+      },
+      {
+        "heading": "Magnetic fields",
+        "level": 4
+      },
+      {
+        "heading": "Cleaning",
+        "level": 4
+      },
+      {
+        "heading": "Maintain Computers",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "4.2 Change Management",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/4.2 Change Management.md",
+    "headings": [
+      {
+        "heading": "Change Request",
+        "level": 2
+      },
+      {
+        "heading": "Scope of change",
+        "level": 4
+      },
+      {
+        "heading": "Risk analysis",
+        "level": 4
+      },
+      {
+        "heading": "Backout plan",
+        "level": 4
+      },
+      {
+        "heading": "Change Approval",
+        "level": 2
+      },
+      {
+        "heading": "Implementation",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "3.2 Professionalism",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/3.2 Professionalism.md",
+    "headings": [
+      {
+        "heading": "Making a Good Impression",
+        "level": 2
+      },
+      {
+        "heading": "Handling Difficult Scenarios",
+        "level": 2
+      },
+      {
+        "heading": "Identifying Problems and Implementing Solutions",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "2.3 Protecting Power",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.3 Protecting Power.md",
+    "headings": [
+      {
+        "heading": "Power surge",
+        "level": 4
+      },
+      {
+        "heading": "Power spike",
+        "level": 4
+      },
+      {
+        "heading": "Power sag",
+        "level": 4
+      },
+      {
+        "heading": "Brownout",
+        "level": 4
+      },
+      {
+        "heading": "Blackout",
+        "level": 4
+      },
+      {
+        "heading": "Surge protectors",
+        "level": 4
+      },
+      {
+        "heading": "UPS (uninterruptible power supply)",
+        "level": 4
+      },
+      {
+        "heading": "Voltage Measurements",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "2.1 Enviromental Concerns",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/2.1 Enviromental Concerns.md",
+    "headings": [
+      {
+        "heading": "Battery Disposal",
+        "level": 4
+      },
+      {
+        "heading": "Printer Cartridges",
+        "level": 4
+      },
+      {
+        "heading": "Monitors",
+        "level": 4
+      },
+      {
+        "heading": "PCs",
+        "level": 4
+      },
+      {
+        "heading": "Air Quality",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "1.1 Safety",
+    "relativePath": "Desktop Support & Maintenance/2-PC Technician Responsibilities/1.1 Safety.md",
+    "headings": [
+      {
+        "heading": "High Voltage",
+        "level": 4
+      },
+      {
+        "heading": "Laser Printer",
+        "level": 4
+      },
+      {
+        "heading": "Power Supplies",
+        "level": 4
+      },
+      {
+        "heading": "MSDS Material Safety Data Sheet",
+        "level": 4
+      },
+      {
+        "heading": "ESD Wrist Strap",
+        "level": 4
+      },
+      {
+        "heading": "Peripherals",
+        "level": 4
+      },
+      {
+        "heading": "Static Shielding Bags",
+        "level": 4
+      },
+      {
+        "heading": "Humidity",
+        "level": 4
+      },
+      {
+        "heading": "Connectors",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "1.2 Computing Basics",
+    "relativePath": "Desktop Support & Maintenance/1-Introduction/1.2 Computing Basics.md",
+    "headings": [
+      {
+        "heading": "Input Devices",
+        "level": 4
+      },
+      {
+        "heading": "Processing Devices",
+        "level": 4
+      },
+      {
+        "heading": "Storage Devices",
+        "level": 4
+      },
+      {
+        "heading": "Output Devices",
+        "level": 4
+      },
+      {
+        "heading": "Networking Devices",
+        "level": 4
+      },
+      {
+        "heading": "Modular Design",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "1.10 Network and Server Cabinets",
+    "relativePath": "Desktop Support & Maintenance/1-Introduction/1.10 Network and Server Cabinets.md",
+    "headings": [
+      {
+        "heading": "Server cabinets",
+        "level": 4
+      },
+      {
+        "heading": "Network cabinets",
+        "level": 4
+      },
+      {
+        "heading": "Height",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Windows Server",
+    "relativePath": "Database/Windows Server.md",
+    "headings": [
+      {
+        "heading": "Datacenter",
+        "level": 4
+      },
+      {
+        "heading": "Standard",
+        "level": 4
+      },
+      {
+        "heading": "Essentials",
+        "level": 4
+      },
+      {
+        "heading": "Foundation",
+        "level": 4
+      },
+      {
+        "heading": "Supporting Server Roles",
+        "level": 2
+      },
+      {
+        "heading": "Directory Services",
+        "level": 4
+      },
+      {
+        "heading": "Infrastructure Services",
+        "level": 4
+      },
+      {
+        "heading": "Application Services",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Security",
+    "relativePath": "Database/Security.md",
+    "headings": [
+      {
+        "heading": "User Authentication",
+        "level": 4
+      },
+      {
+        "heading": "Fixed Server Roles",
+        "level": 4
+      },
+      {
+        "heading": "Public Server Role",
+        "level": 4
+      },
+      {
+        "heading": "User-Defined Roles",
+        "level": 4
+      },
+      {
+        "heading": "Grant DB access",
+        "level": 4
+      },
+      {
+        "heading": "Fixed Database Roles",
+        "level": 4
+      },
+      {
+        "heading": "Assigning Fixed Database Roles",
+        "level": 4
+      },
+      {
+        "heading": "Granting Object Permissions",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Normalization",
+    "relativePath": "Database/Normalization.md",
+    "headings": [
+      {
+        "heading": "First normalization form (1NF)",
+        "level": 4
+      },
+      {
+        "heading": "Second normalization form (2NF)",
+        "level": 4
+      },
+      {
+        "heading": "Third normalization form (3NF)",
+        "level": 4
+      },
+      {
+        "heading": "Fourth normalization form (4NF)",
+        "level": 4
+      },
+      {
+        "heading": "Fifth normalization form (5NF)",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Database Terms",
+    "relativePath": "Database/Database Terms.md",
+    "headings": [
+      {
+        "heading": "Database Types",
+        "level": 4
+      },
+      {
+        "heading": "Interactions",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Database Objects",
+    "relativePath": "Database/Database Objects.md",
+    "headings": [
+      {
+        "heading": "Views",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Constraints",
+    "relativePath": "Database/Constraints.md",
+    "headings": [
+      {
+        "heading": "Constraints",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Commands",
+    "relativePath": "Database/Commands.md",
+    "headings": [
+      {
+        "heading": "Data Manipulation Language (DML)",
+        "level": 2
+      },
+      {
+        "heading": "Data Definition Language (DDL)",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Backups",
+    "relativePath": "Database/Backups.md",
+    "headings": [
+      {
+        "heading": "Transaction Logs",
+        "level": 4
+      },
+      {
+        "heading": "Simple Recovery",
+        "level": 4
+      },
+      {
+        "heading": "Full Recovery",
+        "level": 4
+      },
+      {
+        "heading": "Bulk Logged",
+        "level": 4
+      },
+      {
+        "heading": "Types",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Commands",
+    "relativePath": "Cloud/Google Cloud/CloudShell/Commands.md",
+    "headings": [
+      {
+        "heading": "Creating a VM Instance",
+        "level": 1
+      },
+      {
+        "heading": "Firewall",
+        "level": 1
+      },
+      {
+        "heading": "Kubernetes & Clusters",
+        "level": 1
+      },
+      {
+        "heading": "Set default zone",
+        "level": 2
+      },
+      {
+        "heading": "Create a cluster",
+        "level": 2
+      },
+      {
+        "heading": "Get auth credentials",
+        "level": 2
+      },
+      {
+        "heading": "Deploying a hello world app",
+        "level": 2
+      },
+      {
+        "heading": "Delete the cluster",
+        "level": 2
+      }
+    ]
+  }
+]
