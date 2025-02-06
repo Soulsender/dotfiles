@@ -4,6 +4,7 @@
 # dotfiles are different between hosts
 mkdir -p $HOSTNAME
 
+cp -rf $HOME/scripts ./$HOSTNAME/
 cp -f $HOME/.zshrc ./$HOSTNAME/zshrc
 cp -f $HOME/.config/code-flags.conf ./$HOSTNAME/code-flags.conf
 cp -rf $HOME/.config/ags ./$HOSTNAME/
