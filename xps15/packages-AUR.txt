@@ -1,5 +1,4 @@
 adw-gtk-theme-git
-akonadi-notes
 anyrun-git
 auto-cpufreq
 brave-bin
@@ -27,7 +26,6 @@ illogical-impulse-oneui4-icons-git
 illogical-impulse-pymyc-aur
 illogical-impulse-python
 illogical-impulse-screencapture
-knotes
 openvpn-update-resolv-conf-git
 packettracer
 protonvpn
@@ -43,13 +41,15 @@ python-yapsy-git
 qflipper
 responder
 ruby-install
-sdl2
+rustdesk
 ttf-gabarito-git
 ttf-material-symbols-variable-git
 ttf-readex-pro
 ttf-rubik-vf
 ubridge
 visual-studio-code-bin
+vmware-keymaps
+vmware-workstation
 vpcs
 wlogout
 yay

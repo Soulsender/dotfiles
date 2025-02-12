@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDollarSign",
       "LiFileQuestion",
       "LiCircleDotDashed",
       "LiCog",
-      "LiMapPinned",
-      "LiBrain"
+      "LiMapPinned"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,6 @@
     "iconName": "LiMap",
     "iconColor": "#ff0000"
   },
-  "Networking/Miscellanous": "LiFileQuestion"
+  "Networking/Miscellanous": "LiFileQuestion",
+  "Networking/Scripts": "LiDollarSign"
 }
