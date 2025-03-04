@@ -27,6 +27,7 @@ bovo
 brave-bin
 cantor
 cervisia
+clang
 cmatrix
 colord-kde
 dart-sass
@@ -35,6 +36,7 @@ dialog
 discord
 docker
 docker-compose
+dolphin
 dosfstools
 downgrade
 dragon
@@ -111,6 +113,7 @@ minuet
 mixxx
 mtools
 nano
+nasm
 neochat
 neofetch
 network-manager-applet
@@ -125,6 +128,7 @@ openvpn-update-resolv-conf-git
 os-prober
 packettracer
 palapeli
+pantheon-wayland
 parley
 partitionmanager
 picmi
@@ -138,8 +142,11 @@ plocate
 poxml
 prismlauncher
 protonvpn
+python-installer
 python-pygments
 python-pywayland
+python-toml
+python-yaml
 qbittorrent
 qemu-full
 qflipper
@@ -184,7 +191,9 @@ wireshark-qt
 wlogout
 wpa_supplicant
 xdg-utils
+yasm
 yay
 ytmdesktop
 zanshin
+zip
 zsh

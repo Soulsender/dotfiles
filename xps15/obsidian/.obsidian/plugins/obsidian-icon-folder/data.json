@@ -48,7 +48,6 @@
   "Database": "LiDatabase",
   "Cloud": "LiUploadCloud",
   "Networking/Routing": "LiRoute",
-  "Networking/Essentials (NetAcad)": "LiInfo",
   "Networking/Wireless": "LiRadio",
   "Networking/Switching": "LiArrowRightLeft",
   "README.md": "LiInfo",
@@ -60,10 +59,7 @@
     "iconName": "LiMap",
     "iconColor": "#ff0000"
   },
-  "Networking/Routing/Routing Protocols/OSPF/OSPF.canvas": {
-    "iconName": "LiMap",
-    "iconColor": "#ff0000"
-  },
   "Networking/Miscellanous": "LiFileQuestion",
-  "Networking/Scripts": "LiDollarSign"
+  "Networking/Scripts": "LiDollarSign",
+  "Networking/Essentials": "LiInfo"
 }

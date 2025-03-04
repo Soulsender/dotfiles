@@ -3,20 +3,63 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 6774015
+      }
+    },
+    {
+      "query": "path:Windows  ",
+      "color": {
+        "a": 1,
+        "rgb": 4695807
+      }
+    },
+    {
+      "query": "path:Hacking  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16702465
+      }
+    },
+    {
+      "query": "path:Cloud  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Security  ",
+      "color": {
+        "a": 1,
+        "rgb": 785992
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.2484375,
-  "lineSizeMultiplier": 1.73333333333333,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 0.7890625,
   "collapse-forces": false,
   "centerStrength": 0.604166666666667,
-  "repelStrength": 20,
+  "repelStrength": 15.3125,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.14140674982243587,
+  "linkDistance": 326,
+  "scale": 0.19824984488115927,
   "close": false
 }

@@ -2842,8 +2842,8 @@ body,
   --drag-ghost-background: var(--dark-accent);
   --drag-ghost-text-color: var(--text-dl);
   --tooltip-color: var(--text-dl);
-  --italic-color: inherit;
-  --bold-color: inherit;
+  --italic-color: #f02c2c;;
+  --bold-color: #33a5e7;
   --text-dl: #e5ebee;
   --accent-text: #dcddde;
   --list-color-1: var(--rainbow-1);
@@ -3008,7 +3008,7 @@ body.theme-light {
   --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
   --font-text: var(--font-text-override), var(--font-default);
   --font-monospace-default: var(--font-monospace-default-override), var(--font-monospace);
-  --font-interface: var(--font-interface-override), var(--font-default);
+  --font-interface: "Fira Code";
   --rmx: "remixicon";
   --mdi: "Material Icons Sharp";
   --its: "its";

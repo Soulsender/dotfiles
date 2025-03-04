@@ -1,7 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#cc0f0f",
   "baseFontSize": 23,
   "cssTheme": "ITS Theme",
   "textFontFamily": "DejaVu Sans Mono",
-  "interfaceFontFamily": "DejaVu Sans Mono"
+  "interfaceFontFamily": "American Typewriter,DejaVu Sans Mono",
+  "theme": "obsidian"
 }
