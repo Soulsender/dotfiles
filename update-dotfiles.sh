@@ -12,6 +12,7 @@ cp -rf $HOME/.config/hypr ./$HOSTNAME/
 cp -rf $HOME/.config/fuzzel ./$HOSTNAME/
 cp -rf $HOME/.config/kitty ./$HOSTNAME/
 cp -rf $HOME/Documents/notes/.obsidian ./$HOSTNAME/obsidian
+cp -rf $HOME/.config/gtk-4.0 ./$HOSTNAME/gtk-4.0
 
 # get a list of all installed pacman and AUR packages
 pacman -Qqe > ./$HOSTNAME/packages-pacman.txt

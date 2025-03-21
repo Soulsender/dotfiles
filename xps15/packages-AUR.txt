@@ -54,4 +54,3 @@ vmware-workstation
 vpcs
 wlogout
 yay
-ytmdesktop

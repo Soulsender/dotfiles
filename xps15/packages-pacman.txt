@@ -36,7 +36,6 @@ dialog
 discord
 docker
 docker-compose
-dolphin
 dosfstools
 downgrade
 dragon
@@ -54,6 +53,7 @@ gimp
 git
 github-cli
 gnome-terminal
+gnome-tweaks
 gns3-gui
 gns3-server
 gnu-netcat
@@ -114,6 +114,7 @@ mixxx
 mtools
 nano
 nasm
+nemo
 neochat
 neofetch
 network-manager-applet
@@ -193,7 +194,6 @@ wpa_supplicant
 xdg-utils
 yasm
 yay
-ytmdesktop
 zanshin
 zip
 zsh
