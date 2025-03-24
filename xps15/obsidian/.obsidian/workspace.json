@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Azure/Entra ID.md",
+                "file": "Cloud/Azure/Governance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entra ID"
+              "title": "Governance"
             }
           }
         ]
@@ -191,15 +191,17 @@
   },
   "active": "38a5132ed9538b49",
   "lastOpenFiles": [
+    "Cloud/Azure/RBAC.md",
+    "Cloud/Azure/Networking.md",
+    "Cloud/Azure/_Azure.md",
+    "Cloud/Azure/Governance.md",
+    "Cloud/Azure/Azure Policy.md",
+    "Cloud/Azure/Entra ID.md",
     "_attachments/Pasted image 20250321085934.png",
     "Security/Checkpoint/_Checkpoint.md",
-    "Cloud/Azure/RBAC.md",
     "Security/Checkpoint",
     "Cloud/Azure/Load Balancers.md",
-    "Cloud/Azure/Networking.md",
     "Cloud/Azure/Azure Virtual Desktop (AVD).md",
-    "Cloud/Azure/Entra ID.md",
-    "Cloud/Azure/_Azure.md",
     "Cloud/Azure",
     "Networking/EXAM.md",
     "Networking/Routing/Routing Protocols/EIGRP/_EIGRP.md",
@@ -220,7 +222,6 @@
     "_attachments/Pasted image 20250305143958.png",
     "Windows/Sharepoint/Security/Permissions.md",
     "Windows/Sharepoint/Security/Authorization.md",
-    "Windows/Sharepoint/Content/User Content.md",
     "Windows/Sharepoint/_Sharepoint.canvas",
     "Windows/Sharepoint/Security",
     "Windows/Sharepoint/Content",
@@ -241,7 +242,6 @@
     "_attachments/Pasted image 20250127153842.png",
     "Networking/Routing/VPNs/DMVPN vs Traditional.canvas",
     "_attachments/Pasted image 20250124103453.png",
-    "_attachments/Pasted image 20241204162624.png",
     "Networking/Switching/Spanning-Tree/Spanning Tree.canvas",
     "Networking/Switching/VLANs & DTP/VLANs.canvas",
     "Networking/Routing/Protocols/OSPF/Untitled.canvas",

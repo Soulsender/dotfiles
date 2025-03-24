@@ -42,7 +42,7 @@ qflipper
 responder
 ruby-install
 rustdesk
-rustdesk-debug
+tor-browser-bin
 ttf-gabarito-git
 ttf-material-symbols-variable-git
 ttf-readex-pro
