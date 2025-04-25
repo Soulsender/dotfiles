@@ -36,6 +36,7 @@ alias l="ls -CF"
 # misc
 alias neofetch="fastfetch"
 alias neo="fastfetch"
+alias ssh="kitty +kitten ssh"
 
 # vpn
 #alias proton='protonvpn-cli'

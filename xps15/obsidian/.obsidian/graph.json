@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 785992
       }
+    },
+    {
+      "query": "path:Quick-Reference  ",
+      "color": {
+        "a": 1,
+        "rgb": 3552822
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 15.3125,
   "linkStrength": 1,
   "linkDistance": 326,
-  "scale": 0.13216656325410614,
+  "scale": 0.1326138929798158,
   "close": false
 }
