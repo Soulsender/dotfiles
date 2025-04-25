@@ -48,12 +48,8 @@ fi
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
 sleep 1
-for item in $(< "$packages_pacman"); do
-    sudo pacman -S $item --noconfirm
-done
-
-for item in $(< "$packages_AUR"); do
-    yay -S $item --noconfirm
+for item in $(< "$packages"); do
+    sudo yay -S $item --noconfirm
 done
 
 # prompt for new configuration
