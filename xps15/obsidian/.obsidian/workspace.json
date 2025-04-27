@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Data Processing"
             }
+          },
+          {
+            "id": "39bcca0f87ba8481",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "466c5e975a838906",
+  "active": "39bcca0f87ba8481",
   "lastOpenFiles": [
     "Cloud/Data/Data Storage.md",
     "Cloud/Data/Data Processing.md",

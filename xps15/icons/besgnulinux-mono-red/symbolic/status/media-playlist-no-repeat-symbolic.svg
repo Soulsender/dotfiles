@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image13" width="16" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAAJUlEQVQ4jWNkYGDwYaAAMFGiedSAUQNGDUAARgYGBn5KDaEIAAB/DQB47OpCRgAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image13"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="16" height="16"/>
+</clipPath>
+<g id="surface12" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:#bf0000;fill-opacity:1;" d="M 6 1 L 6 3 L 4 3 C 2.339844 3 1 4.339844 1 6 L 1 10 C 1 11.660156 2.339844 13 4 13 L 12 13 C 13.660156 13 15 11.660156 15 10 L 15 6 C 15 4.339844 13.660156 3 12 3 L 11 3 L 11 5 L 12 5 C 12.554688 5 13 5.445312 13 6 L 13 10 C 13 10.554688 12.554688 11 12 11 L 4 11 C 3.445312 11 3 10.554688 3 10 L 3 6 C 3 5.445312 3.445312 5 4 5 L 6 5 L 6 7 L 10 4 Z M 6 1 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface12" mask="url(#mask0)"/>
+</g>
+</svg>
