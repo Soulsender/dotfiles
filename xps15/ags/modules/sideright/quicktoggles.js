@@ -265,3 +265,24 @@ export const ModulePowerIcon = (props = {}) => Widget.Button({
         setupCursorHover(button);
     }
 })
+
+export const ModuleVPNConnection = (props = {}) => Widget.Button({
+    attribute: {
+        enabled: false,
+    },
+    className: 'txt-small sidebar-iconbutton',
+    tooltipText: getString('Toggle VPN Connection'),
+    onClicked: (self) => {
+        self.attribute.enabled = !self.attribute.enabled;
+        self.toggleClassName('sidebar-button-active', self.attribute.enabled);
+        if (self.attribute.enabled) Utils.execAsync(['bash', '-c', `openvpn ${userOptions.vpn.profile}`]).catch(print)
+        else Utils.execAsync('pkill -f openvpn').catch(print);
+    },
+    child: MaterialIcon('lock', 'norm'),
+    setup: (self) => {
+        setupCursorHover(self);
+        self.attribute.enabled = !!exec('pidof openvpn');
+        self.toggleClassName('sidebar-button-active', self.attribute.enabled);
+    },
+    ...props,
+});

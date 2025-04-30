@@ -28,7 +28,7 @@ arduino-cli 1.1.1-1
 argon2 20190702-6
 arianna 25.04.0-1
 aribb24 1.0.3-4
-at-spi2-core 2.56.1-1
+at-spi2-core 2.56.2-1
 atkmm 2.28.4-1
 attica 6.13.0-1
 attica5 5.116.0-1
@@ -120,7 +120,7 @@ desktop-file-utils 0.28-1
 device-mapper 2.03.31-1
 dialog 1:1.3_20250116-1
 diffutils 3.12-2
-discord 1:0.0.92-1
+discord 1:0.0.93-1
 dkms 3.1.8-1
 dmidecode 3.6-1
 dnssec-anchors 20190629-4
@@ -157,7 +157,7 @@ exo 4.20.0-2
 expat 2.7.1-1
 faad2 2.11.2-1
 fakeroot 1.37.1.1-1
-fastfetch 2.41.0-1
+fastfetch 2.42.0-1
 fcft 3.3.1-1
 feroxbuster 2.11.0-1
 ffmpeg 2:7.1-10
@@ -175,7 +175,7 @@ flatpak 1:1.16.0-2
 flex 2.6.4-5
 fmt 11.1.4-1
 fontconfig 2:2.16.2-1
-foot 1.22.1-1
+foot 1.22.2-1
 freeglut 3.6.0-1
 freetype2 2.13.3-3
 frei0r-plugins 2.3.3-3
@@ -231,8 +231,8 @@ gnome-session 48.0-1
 gnome-settings-daemon 48.1-1
 gnome-shell 1:48.1-1
 gnome-tweaks 46.1-2
-gns3-gui 3.0.4-1
-gns3-server 3.0.4-1
+gns3-gui 3.0.4-2
+gns3-server 3.0.4-2
 gnu-free-fonts 20120503-8
 gnu-netcat 0.7.1-10
 gnulib-l10n 20241231-1
@@ -241,7 +241,7 @@ gnutls 3.8.9-1
 gobject-introspection 1.84.0-1
 gobject-introspection-runtime 1.84.0-1
 gojq 0.12.17-1
-google-chrome 135.0.7049.114-1
+google-chrome 136.0.7103.59-1
 gperftools 2.16-1
 gpgme 1.24.2-1
 gpm 1.20.7.r38.ge82d1a6-6
@@ -282,8 +282,8 @@ gupnp-dlna 0.12.0-3
 gupnp-igd 1.6.0-1
 gvfs 1.57.2-2
 gzip 1.14-2
-harfbuzz 11.1.0-1
-harfbuzz-icu 11.1.0-1
+harfbuzz 11.2.0-1
+harfbuzz-icu 11.2.0-1
 hicolor-icon-theme 0.18-1
 hidapi 0.14.0-3
 highway 1.2.0-1
@@ -298,7 +298,7 @@ hyprcursor 0.1.12-2
 hyprgraphics 0.1.3-3
 hyprland 0.48.1-4
 hyprland-qt-support 0.1.0-5
-hyprland-qtutils 0.1.3-6
+hyprland-qtutils 0.1.4-1
 hyprlang 0.6.1-1
 hyprlock 0.8.1-1
 hyprpicker 0.4.4-1
@@ -459,7 +459,7 @@ lib32-gcc-libs 14.2.1+r753+g1cd744a6828f-1
 lib32-gettext 0.24-1
 lib32-glib2 2.84.1-1
 lib32-glibc 2.41+r47+g046b33800c3e-1
-lib32-harfbuzz 11.1.0-1
+lib32-harfbuzz 11.2.0-1
 lib32-icu 76.1-1
 lib32-json-c 0.18-1
 lib32-keyutils 1.6.3-2
@@ -870,7 +870,7 @@ md4c 0.5.2-1
 mdadm 4.4-1
 media-player-info 26-1
 mesa 1:25.0.4-1
-meson 1.7.2-1
+meson 1.8.0-1
 minizip 1:1.3.1-2
 mixxx 2.5.0-6
 mkinitcpio 39.2-3
@@ -908,7 +908,7 @@ npm 11.3.0-1
 npth 1.8-1
 nspr 4.36-1
 nss 3.110-1
-ntfs-3g 2022.10.3-1
+ntfs-3g 2022.10.3-2
 numactl 2.0.19-1
 nvidia-dkms 570.144-1
 nvidia-settings 570.144-1
@@ -987,7 +987,7 @@ portmidi 1:2.0.4-2
 poxml 25.04.0-1
 prismlauncher 9.4-1
 procps-ng 4.0.5-3
-protobuf 30.1-1
+protobuf 30.1-4
 protobuf-c 1.5.2-1
 protonvpn 1.0.0-3
 protonvpn-cli 3.13.0-3
@@ -1013,7 +1013,7 @@ python-autocommand 2.2.2-7
 python-bcrypt 4.2.1-2
 python-build 1.2.2-3
 python-cairo 1.28.0-1
-python-certifi 2025.01.31-1
+python-certifi 2025.04.26-1
 python-cffi 1.17.1-2
 python-chardet 5.2.0-6
 python-charset-normalizer 3.4.1-1
@@ -1064,7 +1064,7 @@ python-pillow 11.2.1-1
 python-platformdirs 4.3.6-2
 python-pluggy 1.5.0-3
 python-propcache 0.3.1-1
-python-protobuf 30.1-1
+python-protobuf 30.1-4
 python-proton-client 0.7.1-2
 python-protonvpn-nm-lib 3.16.0-2
 python-psutil 7.0.0-1
@@ -1072,7 +1072,7 @@ python-py-cpuinfo 9.0.0-5
 python-pycparser 2.22-3
 python-pydantic 2.11.3-1
 python-pydantic-core 2:2.33.1-1
-python-pydantic-extra-types 2.10.3-1
+python-pydantic-extra-types 2.10.4-1
 python-pydantic-settings 2.9.1-1
 python-pygments 2.19.1-1
 python-pyinotify 0.9.6-15
@@ -1095,8 +1095,8 @@ python-rpds-py 0.22.3-1
 python-secretstorage 3.3.3-6
 python-sentry_sdk 2.27.0-1
 python-setproctitle 1.3.5-1
-python-setuptools 1:79.0.0-1
-python-setuptools-scm 8.2.1-1
+python-setuptools 1:79.0.1-1
+python-setuptools-scm 8.3.0-1
 python-sniffio 1.3.1-4
 python-sqlalchemy 2.0.40-1
 python-starlette 0.46.2-1
@@ -1108,7 +1108,7 @@ python-tqdm 4.67.1-2
 python-truststore 0.10.1-1
 python-typeguard 4.4.2-1
 python-typing-inspection 0.4.0-1
-python-typing_extensions 4.12.2-3
+python-typing_extensions 4.13.2-1
 python-urllib3 2.4.0-1
 python-uvloop 0.21.0-2
 python-watchdog 6.0.0-1
@@ -1119,7 +1119,7 @@ python-yaml 6.0.2-2
 python-yapsy-git release_Yapsy.1.12.2.r17.g6b487b0-1
 python-yarl 1.20.0-1
 python-zstandard 0.23.0-2
-qbittorrent 5.0.5-1
+qbittorrent 5.1.0-1
 qca-qt5 2.3.10-1
 qca-qt6 2.3.10-1
 qemu-audio-alsa 9.2.3-1
@@ -1255,7 +1255,7 @@ rsync 3.4.1-2
 rtkit 0.13-3
 rubberband 4.0.0-1
 ruby-install 0.10.1-1
-runc 1.2.6-1
+runc 1.3.0-1
 rust-src 1:1.86.0-1
 rustdesk 1.3.9-1
 rustup 1.28.1-1
@@ -1298,7 +1298,7 @@ spice 0.15.2-1
 spice-protocol 0.14.4-2
 spirv-tools 1:1.4.309.0-1
 sqlite 3.49.1-1
-sqlmap 1.9.4-1
+sqlmap 1.9.4-2
 sratom 0.6.18-1
 srt 1.5.4-1
 starship 1.23.0-1
@@ -1337,7 +1337,7 @@ thunar 4.20.2-1
 tinysparql 3.9.2-1
 tinyxml2 11.0.0-1
 tomlplusplus 3.4.0-1
-tor-browser-bin 14.5-1
+tor-browser-bin 14.5.1-1
 totem-pl-parser 3.26.6+r30+g51b8439-1
 tpm2-tss 4.1.3-1
 tree 2.2.1-1
@@ -1387,7 +1387,7 @@ vte3 0.80.1-1
 vulkan-icd-loader 1.4.309.0-1
 wavpack 5.8.1-1
 wayland 1.23.1-1
-wayland-protocols 1.43-1
+wayland-protocols 1.44-1
 wayland-utils 1.2.0-2
 webkit2gtk 2.48.1-1
 webkit2gtk-4.1 2.48.1-1

@@ -233,6 +233,9 @@ let configOptions = {
         // Example for four monitors: ["normal", "focus", "normal", "nothing"]
         'modes': ["normal"]
     },
+    'vpn': {
+        'profile': "/home/soul/ca-142.protonvpn.udp.ovpn"
+    }
 }
 
 // Override defaults with user's options
