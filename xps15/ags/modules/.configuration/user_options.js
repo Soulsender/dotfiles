@@ -30,15 +30,15 @@ let configOptions = {
         'layerSmoke': false,
         'layerSmokeStrength': 0.2,
         'barRoundCorners': 1, // 0: No, 1: Yes
-        'fakeScreenRounding': 1, // 0: None | 1: Always | 2: When not fullscreen
+        'fakeScreenRounding': 0, // 0: None | 1: Always | 2: When not fullscreen
     },
     'apps': {
         'bluetooth': "blueberry",
         'imageViewer': "loupe",
-        'network': "XDG_CURRENT_DESKTOP=\"gnome\" gnome-control-center wifi",
+        'network': "nm-connection-editor",
         'settings': "XDG_CURRENT_DESKTOP=\"gnome\" gnome-control-center",
         'taskManager': "gnome-usage",
-        'terminal': "foot", // This is only for shell actions
+        'terminal': "kitty", // This is only for shell actions
     },
     'battery': {
         'low': 20,
@@ -112,7 +112,7 @@ let configOptions = {
         'pages': {
             'order': ["apis", "tools"],
             'apis': {
-                'order': ["gpt", "waifu", "booru"],
+                'order': ["gpt"],
             }
         },
     },
@@ -148,7 +148,7 @@ let configOptions = {
     'dock': {
         'enabled': false,
         'hiddenThickness': 5,
-        'pinnedApps': ['firefox', 'org.gnome.Nautilus'],
+        'pinnedApps': ['brave', 'org.gnome.Nautilus'],
         'layer': 'top',
         'monitorExclusivity': true, // Dock will move to other monitor along with focus if enabled
         'searchPinnedAppIcons': false, // Try to search for the correct icon if the app class isn't an icon name
@@ -173,8 +173,8 @@ let configOptions = {
         // Example: ['/usr/share/icons/Tela-nord/scalable/apps']
         'searchPaths': [''],
         'symbolicIconTheme': {
-            "dark": "Adwaita",
-            "light": "Adwaita",
+            "dark": "besgnulinux-mono-red",
+            "light": "besgnulinux-mono-red",
         },
         substitutions: {
             'code-url-handler': "visual-studio-code",

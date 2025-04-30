@@ -12,8 +12,8 @@ cp -rf $HOME/.config/fuzzel ./$HOSTNAME/
 cp -rf $HOME/.config/kitty ./$HOSTNAME/
 
 # gnome theme stuff
-cp -rf $HOME/.local/share/icons ./$HOSTNAME/icons
-cp -rf $HOME/.themes ./$HOSTNAME/themes
+#cp -rf $HOME/.local/share/icons ./$HOSTNAME/icons
+#cp -rf $HOME/.themes ./$HOSTNAME/themes
 
 # personal config stuff
 cp -rf $HOME/Documents/notes/.obsidian ./$HOSTNAME/obsidian
