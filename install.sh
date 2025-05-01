@@ -6,7 +6,7 @@ GREEN='\e[32m'
 RESET="\e[0m"
 
 template_host="xps15"
-packages="${curl https://raw.githubusercontent.com/Soulsender/dotfiles/refs/heads/main/xps15/packages.txt}"
+packages="$(curl https://raw.githubusercontent.com/Soulsender/dotfiles/refs/heads/main/xps15/packages.txt)"
 
 sudo -A true
 
