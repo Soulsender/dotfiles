@@ -6,7 +6,7 @@ GREEN='\e[32m'
 RESET="\e[0m"
 
 template_host="xps15"
-packages="$(curl https://raw.githubusercontent.com/Soulsender/dotfiles/refs/heads/main/xps15/packages.txt)"
+packages="$(curl https://raw.githubusercontent.com/Soulsender/dotfiles/refs/heads/main/$(template_host)/packages.txt)"
 
 sudo -A true
 
@@ -39,14 +39,14 @@ if command -v yay >&1; then
 else
     echo -e "${RED}Yay not found. Installing...${RESET}"
     sudo pacman -S --needed git base-devel
-    git clone https://aur.archlinux.org/yay-bin.git
-    cd yay-bin
+    git clone https://aur.archlinux.org/yay.git
+    cd yay
     makepkg -si
 fi
 
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
-sleep 1
+sleep 3
 yay -S --needed - < $packages
 
 # prompt for new configuration
