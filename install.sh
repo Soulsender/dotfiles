@@ -47,7 +47,7 @@ fi
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
 sleep 3
-curl -s "$packages" > packages.txt
+wget "$packages" > packages.txt
 yay -S --needed $(< packages.txt)
 
 # prompt for new configuration
