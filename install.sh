@@ -6,8 +6,7 @@ GREEN='\e[32m'
 RESET="\e[0m"
 
 template_host="xps15"
-packages_pacman="${template_host}/packages-pacman.txt"
-packages_AUR="${template_host}/packages-AUR.txt"
+packages="${curl https://raw.githubusercontent.com/Soulsender/dotfiles/refs/heads/main/xps15/packages.txt}"
 
 sudo -A true
 
