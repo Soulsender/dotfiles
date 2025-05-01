@@ -47,15 +47,13 @@ fi
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
 sleep 1
-for item in $(< "$packages"); do
-    sudo yay -S $item --noconfirm
-done
+yay -S --needed - < $packages
 
 # prompt for new configuration
 read -p "Do you want to overwrite you current configuration? (y/N): " response
 if [[ "$response" =~ ^[yY]$ ]]; then
     # copy configs dotfiles
-    echo -e "${BLUE}Overwriting current config...${CLEAR}"
+    echo -e "${BLUE}Overwriting current config...${RESET}"
     sleep 1
     cp -rf ${template_host}/scripts $HOME/
     cp -rf ${template_host}/zshrc $HOME/.zshrc
