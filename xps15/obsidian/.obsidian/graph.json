@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,7 +18,7 @@
       "query": "path:Windows  ",
       "color": {
         "a": 1,
-        "rgb": 4695807
+        "rgb": 852080
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "path:Security  ",
       "color": {
         "a": 1,
-        "rgb": 785992
+        "rgb": 43775
       }
     },
     {
@@ -54,6 +54,20 @@
       "color": {
         "a": 1,
         "rgb": 3552822
+      }
+    },
+    {
+      "query": "path:Recipes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Database  ",
+      "color": {
+        "a": 1,
+        "rgb": 10615168
       }
     }
   ],

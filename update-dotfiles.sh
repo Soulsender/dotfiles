@@ -22,4 +22,4 @@ cp -rf $HOME/.config/gtk-4.0 ./$HOSTNAME/gtk-4.0
 cp -rf $HOME/.scripts ./$HOSTNAME/scripts
 
 # get a list of all installed packages
-pacman -Q > ./$HOSTNAME/packages.txt
+pacman -Q | awk '{print $1}' >> ./$HOSTNAME/packages.txt

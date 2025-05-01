@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Data Processing"
             }
-          },
-          {
-            "id": "39bcca0f87ba8481",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b45dc8836eed899",
@@ -203,8 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39bcca0f87ba8481",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Networking/Scripts/PAT.md",
+    "Networking/Scripts/DMVPN IPSec.md",
+    "Networking/Scripts/Automatic SNMP Config Backups.md",
     "Cloud/Data/Data Storage.md",
     "Cloud/Data/Data Processing.md",
     "Cloud/Data",
@@ -230,10 +220,6 @@
     "Cloud/Azure/Database/Engines.md",
     "Cloud/Azure/Non-Relational Storage/Disks.md",
     "Linux/QUIZ.md",
-    "Linux/Services/Ceph.md",
-    "Networking/Routing/Routing Protocols/BGP/Multihoming.md",
-    "Networking/Routing/Route Maps & Redistribution/Route Redistribution.md",
-    "Security/Palo Alto/Decryption.md",
     "_attachments/Pasted image 20241204134727.png",
     "_attachments/Pasted image 20250209222437.png",
     "Cloud/Azure/Compute",
