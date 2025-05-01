@@ -47,7 +47,8 @@ fi
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
 sleep 3
-curl -s "$packages" | yay -S --needed -
+curl -s "$packages" > packages.txt
+yay -S --needed $(< packages.txt)
 
 # prompt for new configuration
 read -p "Do you want to overwrite you current configuration? (y/N): " response
