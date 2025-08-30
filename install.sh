@@ -47,8 +47,8 @@ fi
 # install packages
 echo -e "${BLUE}Installing packages${RESET}"
 sleep 3
-wget "$packages" -O packages.txt
-yay -S --needed $(< packages.txt)
+wget "$packages" -O "packages.txt"
+yay -S --needed $(< "packages.txt")
 
 # prompt for new configuration
 read -p "Do you want to overwrite you current configuration? (y/N): " response
@@ -67,3 +67,6 @@ if [[ "$response" =~ ^[yY]$ ]]; then
 else
     echo -e "${BLUE}Keeping current configuration${RESET}"
 fi
+
+# for the cheatsheet, it reads the file ~/.config/hypr/hyperland/keybinds.conf as well as the ~/.config/hypr/custom/keybinds.conf file
+# otherwise the cheatsheet will read both files

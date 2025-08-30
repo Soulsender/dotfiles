@@ -11,6 +11,10 @@ cp -rf $HOME/.config/hypr ./$HOSTNAME/
 cp -rf $HOME/.config/fuzzel ./$HOSTNAME/
 cp -rf $HOME/.config/kitty ./$HOSTNAME/
 
+# ly login manager
+mkdir -p ./$HOSTNAME/ly
+cp -rf /etc/ly/config.ini ./$HOSTNAME/ly/
+
 # personal config stuff
 # cp -rf $HOME/Documents/notes/.obsidian ./$HOSTNAME/obsidian
 cp -f $HOME/.zshrc ./$HOSTNAME/zshrc
