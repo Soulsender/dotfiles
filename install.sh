@@ -59,7 +59,7 @@ if [[ "$response" =~ ^[yY]$ ]]; then
     cp -rf ${template_host}/scripts $HOME/
     cp -rf ${template_host}/zshrc $HOME/.zshrc
     cp -rf ${template_host}/code-flags.conf $HOME/.config/
-    cp -rf ${template_host}/ags $HOME/.config/
+    cp -rf ${template_host}/quickshell $HOME/.config/
     cp -rf ${template_host}/hypr $HOME/.config/
     cp -rf ${template_host}/fuzzel $HOME/.config/
     cp -rf ${template_host}/kitty $HOME/.config/

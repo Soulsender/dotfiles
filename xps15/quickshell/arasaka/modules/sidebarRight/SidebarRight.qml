@@ -18,7 +18,7 @@ import Quickshell.Hyprland
 
 Scope {
     id: root
-    property int sidebarWidth: Appearance.sizes.sidebarWidth
+    property int sidebarWidth: Appearance.sizes.rightSidebarWidth
     property int sidebarPadding: 15
     property string settingsQmlPath: Quickshell.configPath("settings.qml")
 
@@ -177,7 +177,7 @@ Scope {
                             NetworkToggle {}
                             BluetoothToggle {}
                             NightLight {}
-                            GameMode {}
+                            // GameMode {}
                             IdleInhibitor {}
                             CloudflareWarp {}
                         }

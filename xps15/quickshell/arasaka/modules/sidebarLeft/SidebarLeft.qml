@@ -50,7 +50,7 @@ Scope { // Scope
             visible: GlobalStates.sidebarLeftOpen
             
             property bool extend: false
-            property real sidebarWidth: sidebarRoot.extend ? Appearance.sizes.sidebarWidthExtended : Appearance.sizes.sidebarWidth
+            property real sidebarWidth: sidebarRoot.extend ? Appearance.sizes.leftSidebarWidthExtended : Appearance.sizes.leftSidebarWidth
             property var contentParent: sidebarLeftBackground
 
             function hide() {
@@ -58,7 +58,7 @@ Scope { // Scope
             }
 
             exclusiveZone: 0
-            implicitWidth: Appearance.sizes.sidebarWidthExtended + Appearance.sizes.elevationMargin
+            implicitWidth: Appearance.sizes.leftSidebarWidthExtended + Appearance.sizes.elevationMargin
             WlrLayershell.namespace: "quickshell:sidebarLeft"
             // Hyprland 0.49: OnDemand is Exclusive, Exclusive just breaks click-outside-to-close
             // WlrLayershell.keyboardFocus: WlrKeyboardFocus.OnDemand
